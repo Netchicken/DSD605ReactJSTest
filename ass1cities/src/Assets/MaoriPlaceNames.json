@@ -1,0 +1,5027 @@
+[
+ {
+   "Place name": "Ahuroa",
+   "Components": "ahu: mound; roa: long",
+   "Meaning": "Long mound"
+ },
+ {
+   "Place name": "Aoroa",
+   "Components": "ao: cloud; roa: long",
+   "Meaning": "Long cloud"
+ },
+ {
+   "Place name": "Aotearoa",
+   "Components": "ao: cloud; tea: white; roa: long",
+   "Meaning": "Land of the long white cloud"
+ },
+ {
+   "Place name": "Aramoana",
+   "Components": "ara: path; moana: sea",
+   "Meaning": "Sea pathway"
+ },
+ {
+   "Place name": "Aranui",
+   "Components": "ara: path; nui: great",
+   "Meaning": "Great pathway"
+ },
+ {
+   "Place name": "Arapae",
+   "Components": "ara: path; pae: ridgeway",
+   "Meaning": "Pathway along the ridge"
+ },
+ {
+   "Place name": "Arapito",
+   "Components": "ara: path; pito: end or extremity",
+   "Meaning": "End of the path"
+ },
+ {
+   "Place name": "Arapōhue",
+   "Components": "ara: path; pōhue: climbing plant",
+   "Meaning": "Path of the climbing plant"
+ },
+ {
+   "Place name": "Arapuni",
+   "Components": "ara: path; puni: blocked or covered",
+   "Meaning": "Blocked path"
+ },
+ {
+   "Place name": "Ararātā",
+   "Components": "ara: path; rātā: native tree",
+   "Meaning": "Rātā tree path"
+ },
+ {
+   "Place name": "Ararimu",
+   "Components": "ara: path; rimu: native tree",
+   "Meaning": "Rimu tree path"
+ },
+ {
+   "Place name": "Ararua",
+   "Components": "ara: path; rua: two",
+   "Meaning": "Two paths"
+ },
+ {
+   "Place name": "Arataha",
+   "Components": "ara: path; taha: side",
+   "Meaning": "Side path"
+ },
+ {
+   "Place name": "Aratapu",
+   "Components": "ara: path; tapu: sacred or restricted",
+   "Meaning": "Sacred path"
+ },
+ {
+   "Place name": "Aratiatia Lakes, Aratiatia Rapids",
+   "Components": "ara: path; tiatia: pegs",
+   "Meaning": "Pegged ladder"
+ },
+ {
+   "Place name": "Aratika",
+   "Components": "ara: path; tika: correct or straight",
+   "Meaning": "Direct path"
+ },
+ {
+   "Place name": "Aratoro",
+   "Components": "ara: path; toro: discover",
+   "Meaning": "Path of discovery"
+ },
+ {
+   "Place name": "Aropaonui",
+   "Components": "aro: kidney fat; paoa: to bash",
+   "Meaning": "Bashed kidney fat"
+ },
+ {
+   "Place name": "Aukati",
+   "Components": "au: line; kati: block",
+   "Meaning": "Frontier"
+ },
+ {
+   "Place name": "Auripo",
+   "Components": "au: current; ripo: whirlpool, or eddying",
+   "Meaning": "Eddying current"
+ },
+ {
+   "Place name": "Auroa",
+   "Components": "au: cloud or mist; roa: long",
+   "Meaning": "Long cloud"
+ },
+ {
+   "Place name": "Awa",
+   "Components": "awa: river",
+   "Meaning": "River"
+ },
+ {
+   "Place name": "Awahōhonu River",
+   "Components": "awa: river; hōhonu: deep",
+   "Meaning": "Deep river"
+ },
+ {
+   "Place name": "Awahōu",
+   "Components": "awa: river; hōu: new",
+   "Meaning": "New river"
+ },
+ {
+   "Place name": "Awaiti",
+   "Components": "awa: river; iti: little",
+   "Meaning": "Little river"
+ },
+ {
+   "Place name": "Awa-kāeaea",
+   "Components": "awa: valley or stream; kāeaea: the sparrow-hawk",
+   "Meaning": "Sparrow-hawk stream"
+ },
+ {
+   "Place name": "Awakeri",
+   "Components": "awa: river; keri: dig",
+   "Meaning": "Ditch or trench"
+ },
+ {
+   "Place name": "Awakino",
+   "Components": "awa: river; kino: bad, evil, or of bad appearance",
+   "Meaning": "Bad creek"
+ },
+ {
+   "Place name": "Awamangu",
+   "Components": "awa: river; mangu: black",
+   "Meaning": "Black river"
+ },
+ {
+   "Place name": "Awamarino",
+   "Components": "awa: stream; marino: calm",
+   "Meaning": "Calm stream"
+ },
+ {
+   "Place name": "Awamoana",
+   "Components": "awa: stream; moana: sea",
+   "Meaning": "Sea stream"
+ },
+ {
+   "Place name": "Awamoko",
+   "Components": "awa: stream; moko: lizard",
+   "Meaning": "Lizard stream"
+ },
+ {
+   "Place name": "Awanui",
+   "Components": "awa: river; nui: large",
+   "Meaning": "Large river"
+ },
+ {
+   "Place name": "Awapikopiko",
+   "Components": "awa: stream; pikopiko: winding about",
+   "Meaning": "Winding stream"
+ },
+ {
+   "Place name": "Awapuni",
+   "Components": "awa: stream; puni: blocked up",
+   "Meaning": "Blocked-up river"
+ },
+ {
+   "Place name": "Awarere",
+   "Components": "awa: stream; rere: to flow",
+   "Meaning": "Flowing stream"
+ },
+ {
+   "Place name": "Awariki",
+   "Components": "awa: river; riki: small",
+   "Meaning": "Little river"
+ },
+ {
+   "Place name": "Awaroa",
+   "Components": "awa: river or valley; roa: long",
+   "Meaning": "Long river"
+ },
+ {
+   "Place name": "Awarua",
+   "Components": "awa: stream or river; rua: two",
+   "Meaning": "Two streams"
+ },
+ {
+   "Place name": "Awatere River",
+   "Components": "awa: river; tere: swift",
+   "Meaning": "Swift river"
+ },
+ {
+   "Place name": "Awatoitoi",
+   "Components": "awa: stream; toitoi: giant bully",
+   "Meaning": "Giant bully stream"
+ },
+ {
+   "Place name": "Awatōtō",
+   "Components": "awa: stream; tōtō: hauling place",
+   "Meaning": "Stream for hauling (canoes)"
+ },
+ {
+   "Place name": "Awatuna",
+   "Components": "awa: stream; tuna: eel",
+   "Meaning": "Eel stream"
+ },
+ {
+   "Place name": "Eketāhuna",
+   "Components": "eke: run aground or land; tāhuna: sandbank",
+   "Meaning": "Land on the sandbank"
+ },
+ {
+   "Place name": "Epiha",
+   "Components": "Māori form of biblical name Ephesus",
+   "Meaning": "Ephesus"
+ },
+ {
+   "Place name": "Erua",
+   "Components": "e: used before cardinal numbers from two to nine; rua: two",
+   "Meaning": "Two"
+ },
+ {
+   "Place name": "Hāpua-waikawa",
+   "Components": "hāpua: pool; wai: water; kawa: bitter",
+   "Meaning": "Pool of bitter water"
+ },
+ {
+   "Place name": "Haumoana",
+   "Components": "hau: wind; moana: sea",
+   "Meaning": "Sea breeze"
+ },
+ {
+   "Place name": "Haunui",
+   "Components": "hau: wind; nui: big or many",
+   "Meaning": "Strong wind"
+ },
+ {
+   "Place name": "Hiwinui",
+   "Components": "hiwi: ridge; nui: big",
+   "Meaning": "Big ridge"
+ },
+ {
+   "Place name": "Hokanui",
+   "Components": "hoka: projecting sharply upwards; nui: large",
+   "Meaning": "Large projection"
+ },
+ {
+   "Place name": "Houipapa",
+   "Components": "houi: lacebark; papa: flat",
+   "Meaning": "Ribbonwood flat"
+ },
+ {
+   "Place name": "Houpoto",
+   "Components": "hou: feathers; poto: short",
+   "Meaning": "Short feathers"
+ },
+ {
+   "Place name": "Hukanui",
+   "Components": "huka: foam, frost or snow; nui: big",
+   "Meaning": "Heavy snow"
+ },
+ {
+   "Place name": "Hukerenui",
+   "Components": "hukere: cascade; nui: large",
+   "Meaning": "Large cascade"
+ },
+ {
+   "Place name": "Hurimoana",
+   "Components": "huri: to overflow; moana: ocean",
+   "Meaning": "Overflowing ocean"
+ },
+ {
+   "Place name": "Ihumātao",
+   "Components": "ihu: nose; mātao: cold",
+   "Meaning": "Cold nose"
+ },
+ {
+   "Place name": "Ihumoana",
+   "Components": "ihu: nose; moana: sea",
+   "Meaning": "Nose into the sea"
+ },
+ {
+   "Place name": "Ikawai",
+   "Components": "ika: fish; wai: water",
+   "Meaning": "Waters of fish"
+ },
+ {
+   "Place name": "Kā Pukehore",
+   "Components": "A descriptive name, kā (ngā): the; puke: hill; hore: bare (the peaks were bare of vegetation)",
+   "Meaning": "The bare hills"
+ },
+ {
+   "Place name": "Kā Pukemāeroero",
+   "Components": "kā (ngā): the; puke: hill; māeroero: ogres of the South Island forests",
+   "Meaning": "The hill of ogres"
+ },
+ {
+   "Place name": "Kaharoa",
+   "Components": "kaha: net; roa: long",
+   "Meaning": "Large net"
+ },
+ {
+   "Place name": "Kaiata",
+   "Components": "kai: to eat: ata: early morning",
+   "Meaning": "Eating in the morning"
+ },
+ {
+   "Place name": "Kaiaua",
+   "Components": "kai: to eat; aua: mullet or herrings",
+   "Meaning": "Eating mullets"
+ },
+ {
+   "Place name": "Kai-Hau-o-Kupe",
+   "Components": "kai: to eat; hau: wind; o: of; Kupe",
+   "Meaning": "The place where Kupe ‘ate wind’"
+ },
+ {
+   "Place name": "Kaihiku",
+   "Components": "kai: te eat; hiku: tail of a fish",
+   "Meaning": "Eating a fish tail"
+ },
+ {
+   "Place name": "Kaihinu",
+   "Components": "kai: food; hinu: fat",
+   "Meaning": "Food preserved in fat"
+ },
+ {
+   "Place name": "Kaihu",
+   "Components": "An abbreviation of kai-hu-a-Ihenga, kai: to eat; hu: secretly; a: of; Ihenga",
+   "Meaning": "Eat secretly"
+ },
+ {
+   "Place name": "Kaikarae",
+   "Components": "kai: food; karae: seabird",
+   "Meaning": "Eat a seabird"
+ },
+ {
+   "Place name": "Kaikōura",
+   "Components": "kai: to eat; koura: crayfish",
+   "Meaning": "Eat crayfish"
+ },
+ {
+   "Place name": "Kaikūmera Bay",
+   "Components": "kai: to eat; kūmera (alternate spelling of kūmara): sweet potato",
+   "Meaning": "Eat kūmara"
+ },
+ {
+   "Place name": "Kaimāī",
+   "Components": "kai: food or to eat; māī: mussels, or slightly fermented food",
+   "Meaning": "Eat fermented food"
+ },
+ {
+   "Place name": "Kaimamaku",
+   "Components": "kai: food or to eat; mamaku: edible tree-fern",
+   "Meaning": "Eat edible tree-fern"
+ },
+ {
+   "Place name": "Kaimanawa Mountains",
+   "Components": "kai: food or to eat; manawa: breath (also meaning heart or emotion)",
+   "Meaning": "Breath for food"
+ },
+ {
+   "Place name": "Kaimangō",
+   "Components": "kai: food or to eat; mangō: shark",
+   "Meaning": "Eating shark"
+ },
+ {
+   "Place name": "Kaimata",
+   "Components": "kaimata: unripe or uncooked food",
+   "Meaning": "Eat raw food"
+ },
+ {
+   "Place name": "Kaimātaitai",
+   "Components": "kai: food; mātaitai: salty",
+   "Meaning": "Eat seafood"
+ },
+ {
+   "Place name": "Kaimaumau",
+   "Components": "kai: food; maumau: to waste",
+   "Meaning": "Eat food"
+ },
+ {
+   "Place name": "Kaimiro",
+   "Components": "kai: food or to eat; miro: a tree",
+   "Meaning": "Eat miro berries"
+ },
+ {
+   "Place name": "Kainamu",
+   "Components": "kai: to eat; namu: sandflies",
+   "Meaning": "Eat sandflies"
+ },
+ {
+   "Place name": "Kāingaroa",
+   "Components": "kāinga: area of land; roa: long",
+   "Meaning": "Long area of land"
+ },
+ {
+   "Place name": "Kāingaroa Plain",
+   "Components": "Kāinga: place where food has been cooked and eaten; roa: long",
+   "Meaning": "Long meal"
+ },
+ {
+   "Place name": "Kaipākirikiri",
+   "Components": "kai: food; pākirikiri: rock cod",
+   "Meaning": "Eating rock cod"
+ },
+ {
+   "Place name": "Kaipara Flats",
+   "Components": "kai: te eat; para: fern-root",
+   "Meaning": "Eat fern-root"
+ },
+ {
+   "Place name": "Kaiparoro",
+   "Components": "kai: to eat; paroro: bad weather",
+   "Meaning": "Eating up bad weather"
+ },
+ {
+   "Place name": "Kaipō Bay",
+   "Components": "kai: to eat; pō: night",
+   "Meaning": "Eat night"
+ },
+ {
+   "Place name": "Kaipuke",
+   "Components": "kai: to eat; puke: swell, flood",
+   "Meaning": "Ship (wave eater)"
+ },
+ {
+   "Place name": "Kaipūpū",
+   "Components": "kai: food; pūpū: shellfish",
+   "Meaning": "Eat shellfish"
+ },
+ {
+   "Place name": "Kairākau",
+   "Components": "kai: to eat; rākau: wood.",
+   "Meaning": "Eat wood"
+ },
+ {
+   "Place name": "Kairaki",
+   "Components": "kai: eat; raki (South Island form of rangi); sky",
+   "Meaning": "Sky eater"
+ },
+ {
+   "Place name": "Kairara",
+   "Components": "kai: food; rara: to be spread out on a stage for drying in the sun",
+   "Meaning": "Food spread out on a stage to dry"
+ },
+ {
+   "Place name": "Kairua",
+   "Components": "kai: food; rua: pit",
+   "Meaning": "Food pit"
+ },
+ {
+   "Place name": "Kaitakata",
+   "Components": "South Island variant of Kaitangata – kai: to eat; tangata: man",
+   "Meaning": "Man eater (South Island form)"
+ },
+ {
+   "Place name": "Kaitangata",
+   "Components": "kai: to eat; tangata: man",
+   "Meaning": "Man eater"
+ },
+ {
+   "Place name": "Kaitangiweka",
+   "Components": "kai: food; tangi: to cry; weka: wood hen",
+   "Meaning": "Crying of the weka for food"
+ },
+ {
+   "Place name": "Kaitapeha",
+   "Components": "kai: to eat; tapeha: rind or skin",
+   "Meaning": "Eat the rind"
+ },
+ {
+   "Place name": "Kaitawa",
+   "Components": "kai: food; tawa: tree or berries",
+   "Meaning": "Eat tawa berries"
+ },
+ {
+   "Place name": "Kaitieke",
+   "Components": "kai: to eat; tieke: the saddleback bird",
+   "Meaning": "Eat the saddleback bird"
+ },
+ {
+   "Place name": "Kaitoke",
+   "Components": "kai: to eat, or food; take: worm",
+   "Meaning": "Eat worms"
+ },
+ {
+   "Place name": "Kaitoki",
+   "Components": "kai: food; toki: adze",
+   "Meaning": "Food for the adze"
+ },
+ {
+   "Place name": "Kaituna",
+   "Components": "kai: to eat; tuna: eel",
+   "Meaning": "Eat eels"
+ },
+ {
+   "Place name": "Kai-waha-onepū",
+   "Components": "kai: food; waha: mouth; onepū: sand",
+   "Meaning": "Biting the sand"
+ },
+ {
+   "Place name": "Kaiwaka",
+   "Components": "kai: to eat; waka: canoe",
+   "Meaning": "Eating the canoes"
+ },
+ {
+   "Place name": "Kaiwera",
+   "Components": "kai: food; wera: hot",
+   "Meaning": "Hot food"
+ },
+ {
+   "Place name": "Kaiwharawhara",
+   "Components": "kai: food or to eat; wharawhara: the fruit of the astelia",
+   "Meaning": "Eat the fruit of the astelia"
+ },
+ {
+   "Place name": "Kakīroa",
+   "Components": "kakī: neck or throat; roa: large",
+   "Meaning": "Long neck"
+ },
+ {
+   "Place name": "Kararoa",
+   "Components": "kara: this word has many meanings, one of which is old man; roa: tall",
+   "Meaning": "Tall elderly man"
+ },
+ {
+   "Place name": "Kauroa",
+   "Components": "kau: to swim; roa: long",
+   "Meaning": "Long swim"
+ },
+ {
+   "Place name": "Kereone",
+   "Components": "kere: earth; one: sand or sandy",
+   "Meaning": "Sandy earth"
+ },
+ {
+   "Place name": "Kererū",
+   "Components": "kererū: wood pigeon",
+   "Meaning": "Wood pigeon"
+ },
+ {
+   "Place name": "Keteketerau",
+   "Components": "ketekete: click the tongue; rau: many times",
+   "Meaning": "Click the tongue repeatedly"
+ },
+ {
+   "Place name": "Ketetahi springs",
+   "Components": "Kete: basket; tahi: one",
+   "Meaning": "One spring"
+ },
+ {
+   "Place name": "Kihikihi",
+   "Components": "kihikihi: cicada",
+   "Meaning": "Cicada"
+ },
+ {
+   "Place name": "Kihitū",
+   "Components": "kihi: to strip off; tū: girdle or belt to which a maro (loincloth) was attached",
+   "Meaning": "Strip off the girdle"
+ },
+ {
+   "Place name": "Kioreroa",
+   "Components": "kiore: native rat; roa: long",
+   "Meaning": "Long rat"
+ },
+ {
+   "Place name": "Kirkiriroa",
+   "Components": "kirikiri: gravel; roa: long",
+   "Meaning": "Long gravel"
+ },
+ {
+   "Place name": "Kiwinui",
+   "Components": "kiwi: bird; nui: many",
+   "Meaning": "Many kiwi birds"
+ },
+ {
+   "Place name": "Kōhīnui",
+   "Components": "kōhī: dark mud (used in dyeing), heavy rain, skeleton, youth, etc.; nui: large, many or plenty",
+   "Meaning": "Plenty of dark mud"
+ },
+ {
+   "Place name": "Kohukohunui",
+   "Components": "Lit: kohukohu: mist; nui: big or many",
+   "Meaning": "Great mist"
+ },
+ {
+   "Place name": "Kōpūtai",
+   "Components": "kōpū: full; tai: tide",
+   "Meaning": "Full tide"
+ },
+ {
+   "Place name": "Kōputaroa",
+   "Components": "kōputa: snare for catching parakeets; roa: long",
+   "Meaning": "Long snare for catching parakeets"
+ },
+ {
+   "Place name": "Kōpūwai",
+   "Components": "kōpū: belly or full; wai: water",
+   "Meaning": "Water swallower"
+ },
+ {
+   "Place name": "Korakonui",
+   "Components": "korako: albino; nui: big",
+   "Meaning": "Large albino (bird)"
+ },
+ {
+   "Place name": "Kororāreka",
+   "Components": "kororā: blue penguin; reka: sweet or tasty",
+   "Meaning": "Tasty blue penguin"
+ },
+ {
+   "Place name": "Kōtuku",
+   "Components": "kōku: white heron",
+   "Meaning": "White heron"
+ },
+ {
+   "Place name": "Kōtuku-moana",
+   "Components": "kōtuku: white heron; moana: lake",
+   "Meaning": "Lake of white herons"
+ },
+ {
+   "Place name": "Kōurarau",
+   "Components": "kōura: crayfish; rau: many",
+   "Meaning": "Many crayfish"
+ },
+ {
+   "Place name": "Koutunui",
+   "Components": "koutu: headland; nui: large",
+   "Meaning": "Large headland"
+ },
+ {
+   "Place name": "Kumeroa",
+   "Components": "kume: to pull; roa: long",
+   "Meaning": "Long drag"
+ },
+ {
+   "Place name": "Kuranui",
+   "Components": "kura: red; nui: large red birds",
+   "Meaning": "Big red (birds)"
+ },
+ {
+   "Place name": "Makakahikatoa",
+   "Components": "maka: strike; kahikatoa: red mānuka (Leptospermum scoparium) or more probably a weapon made from this wood",
+   "Meaning": "Striking with mānuka stick"
+ },
+ {
+   "Place name": "Makarānui",
+   "Components": "makarā: to come and go; nui: many",
+   "Meaning": "Much coming and going"
+ },
+ {
+   "Place name": "Mākikihi",
+   "Components": "ma: stream; kikihi: cicada (Amphipsalta cingulata)",
+   "Meaning": "Cicada stream"
+ },
+ {
+   "Place name": "Mākirikiri",
+   "Components": "ma: stream: kirikiri: gravel",
+   "Meaning": "Gravelly stream"
+ },
+ {
+   "Place name": "Mākōhine Valley",
+   "Components": "mā: stream; kōhine: girl",
+   "Meaning": "Young woman's stream"
+ },
+ {
+   "Place name": "Mākōtuku",
+   "Components": "mā: stream; kōtuku: white heron",
+   "Meaning": "White heron stream"
+ },
+ {
+   "Place name": "Mākōwhai",
+   "Components": "Mā: stream; kōwhai: tree",
+   "Meaning": "Kōwhai tree stream"
+ },
+ {
+   "Place name": "Mākurī",
+   "Components": "mā: stream; kurī: dog",
+   "Meaning": "Dog stream"
+ },
+ {
+   "Place name": "Māmāranui",
+   "Components": "mā: stream; māra: farm or cultivation; nui: large or many",
+   "Meaning": "Stream for many gardens"
+ },
+ {
+   "Place name": "Manaroa",
+   "Components": "mana: power or prestige; roa: great or long",
+   "Meaning": "Enduring prestige"
+ },
+ {
+   "Place name": "Mangaharakeke",
+   "Components": "manga: stream; harakeke: flax bush",
+   "Meaning": "Stream of flax"
+ },
+ {
+   "Place name": "Mangahoe",
+   "Components": "manga: stream; hoe: canoe paddle",
+   "Meaning": "Stream of canoe paddles"
+ },
+ {
+   "Place name": "Mangahouhounui Stream",
+   "Components": "manga: stream; houhou: five-finger tree; nui: large or many",
+   "Meaning": "Stream of many five finger trees"
+ },
+ {
+   "Place name": "Mangaiti",
+   "Components": "manga: stream; iti: tiny",
+   "Meaning": "Small stream"
+ },
+ {
+   "Place name": "Mangakāhia",
+   "Components": "manga: stream; kāhia or kōhia: native passion vine",
+   "Meaning": "Stream of New Zealand passionfruit"
+ },
+ {
+   "Place name": "Mangakino",
+   "Components": "manga: stream; kino: bad, usless or stagnant",
+   "Meaning": "Stagnant stream"
+ },
+ {
+   "Place name": "Mangakura",
+   "Components": "manga: stream; kura: red or red ochre",
+   "Meaning": "Stream of red ochre"
+ },
+ {
+   "Place name": "Mangamāhoe",
+   "Components": "manga: stream; māhoe: native tree, whiteywood (Melicytus ramiflorus)",
+   "Meaning": "Māhoe stream"
+ },
+ {
+   "Place name": "Mangamahu",
+   "Components": "manga: stream; mahu: gentle",
+   "Meaning": "Gentle stream"
+ },
+ {
+   "Place name": "Mangamaire",
+   "Components": "manga: stream; maire: native tree",
+   "Meaning": "Maire stream"
+ },
+ {
+   "Place name": "Mangamuka",
+   "Components": "manga: stream; muka: the furled shoot of the nīkau palm",
+   "Meaning": "Stream of the furled shoot of the nīkau palm"
+ },
+ {
+   "Place name": "Mangamutu",
+   "Components": "manga: stream; mutu: finished",
+   "Meaning": "Finished stream"
+ },
+ {
+   "Place name": "Mangangarongaro: Mangangarongaro Stream",
+   "Components": "manga: stream; ngarongaro: somewhat abated",
+   "Meaning": "Abated stream"
+ },
+ {
+   "Place name": "Manganui-a-te-Ao",
+   "Components": "manga: stream; nui: great; a: of; te: the; ao: world",
+   "Meaning": "Great stream of the world"
+ },
+ {
+   "Place name": "Mangaohae",
+   "Components": "manga: stream o: of; Hae",
+   "Meaning": "The stream of Hae"
+ },
+ {
+   "Place name": "Mangaohutu",
+   "Components": "manga: stream; o: of; Hutu",
+   "Meaning": "The stream of Hutu"
+ },
+ {
+   "Place name": "Mangaonoho",
+   "Components": "manga: stream; o: of; Noho",
+   "Meaning": "The stream of Noho"
+ },
+ {
+   "Place name": "Mangaorapa",
+   "Components": "manga: stream; o: of; Rapa",
+   "Meaning": "The stream of Rapa"
+ },
+ {
+   "Place name": "Mangaore",
+   "Components": "manga: stream; ore: to poke with a stick, or to bore a hole",
+   "Meaning": "The stream where a hole was bored"
+ },
+ {
+   "Place name": "Mangaotaki",
+   "Components": "manga: stream; o: of; taki: oratory or to make a speech",
+   "Meaning": "Stream of oratory"
+ },
+ {
+   "Place name": "Mangaowera: Mangaowera Stream",
+   "Components": "manga: stream; o: of; Wera",
+   "Meaning": "The stream of Wera"
+ },
+ {
+   "Place name": "Mangapai",
+   "Components": "manga: stream; pai: good",
+   "Meaning": "Good stream"
+ },
+ {
+   "Place name": "Mangapēhi",
+   "Components": "manga: stream; pēhi: troubled",
+   "Meaning": "Stream of trouble"
+ },
+ {
+   "Place name": "Mangapiko",
+   "Components": "manga: stream; piko: bent or crooked",
+   "Meaning": "Winding stream"
+ },
+ {
+   "Place name": "Mangapōuri",
+   "Components": "manga: stream; pōuri: dark",
+   "Meaning": "Dark stream"
+ },
+ {
+   "Place name": "Mangapu",
+   "Components": "manga: stream; pū: double",
+   "Meaning": "Double stream"
+ },
+ {
+   "Place name": "Mangapuaka",
+   "Components": "manga: stream ; puaka: bird snare or rimu tree",
+   "Meaning": "Bird snare stream"
+ },
+ {
+   "Place name": "Mangapūrua",
+   "Components": "manga: stream; pūrua: abundant or plenty",
+   "Meaning": "Abundant stream"
+ },
+ {
+   "Place name": "Mangarakau",
+   "Components": "manga: stream; rākau: tree",
+   "Meaning": "Stream of trees"
+ },
+ {
+   "Place name": "Mangaramarama",
+   "Components": "manga: stream; ramarama: native shrub",
+   "Meaning": "Stream of the ramarama shrub"
+ },
+ {
+   "Place name": "Mangarapa",
+   "Components": "manga: stream; rapa: broad or spread out",
+   "Meaning": "Broad stream"
+ },
+ {
+   "Place name": "Mangarātā",
+   "Components": "manga: stream; rata: native tree",
+   "Meaning": "Rātā stream"
+ },
+ {
+   "Place name": "Mangarawa",
+   "Components": "manga: stream; rawa: swamp",
+   "Meaning": "Swampy stream"
+ },
+ {
+   "Place name": "Mangarimu",
+   "Components": "manga: stream; rimu: native tree",
+   "Meaning": "Rimu stream"
+ },
+ {
+   "Place name": "Mangaroa",
+   "Components": "manga: stream; roa: long",
+   "Meaning": "Long stream"
+ },
+ {
+   "Place name": "Mangatahi",
+   "Components": "manga: stream; tahi: single",
+   "Meaning": "Single stream"
+ },
+ {
+   "Place name": "Mangatainoka",
+   "Components": "manga: stream; tainoka: native broom",
+   "Meaning": "Native broom stream"
+ },
+ {
+   "Place name": "Mangatangi",
+   "Components": "manga: stream; tangi: weeping or sounding",
+   "Meaning": "Stream of weeping"
+ },
+ {
+   "Place name": "Mangatapu",
+   "Components": "manga: stream; tapu: sacred or forbidden",
+   "Meaning": "Sacred stream"
+ },
+ {
+   "Place name": "Mangatarata",
+   "Components": "manga: stream; tarata: native tree known as lemonwood",
+   "Meaning": "Lemonwood stream"
+ },
+ {
+   "Place name": "Mangatāwhiri",
+   "Components": "manga: stream; tāwhiri: native tree",
+   "Meaning": "Tāwhiri tree stream"
+ },
+ {
+   "Place name": "Mangatea",
+   "Components": "manga: stream; tea: white or clear",
+   "Meaning": "Clear stream"
+ },
+ {
+   "Place name": "Mangateparu",
+   "Components": "manga: stream; te: the paru: mud, dirt, dirty or deep",
+   "Meaning": "Stream of mud"
+ },
+ {
+   "Place name": "Mangatepopo",
+   "Components": "manga: stream; te: the; popo: anything rotten or decayed",
+   "Meaning": "Stream of rotten items"
+ },
+ {
+   "Place name": "Mangateretere",
+   "Components": "manga: stream; teretere: swiftly flowing",
+   "Meaning": "Swiftly flowing river"
+ },
+ {
+   "Place name": "Mangatī",
+   "Components": "manga: stream; tī: cabbage tree",
+   "Meaning": "Cabbage-tree stream"
+ },
+ {
+   "Place name": "Mangatina",
+   "Components": "manga: stream; tina: exhausted",
+   "Meaning": "Exhausted at the stream"
+ },
+ {
+   "Place name": "Mangatoetoe",
+   "Components": "manga: stream; toetoe: native grass",
+   "Meaning": "Toetoe stream"
+ },
+ {
+   "Place name": "Mangatuna",
+   "Components": "manga: stream; tuna: eel",
+   "Meaning": "Eel stream"
+ },
+ {
+   "Place name": "Mangawara",
+   "Components": "manga: stream; wara: to make an indistinct sound",
+   "Meaning": "Quiet stream"
+ },
+ {
+   "Place name": "Mangaweka:",
+   "Components": "manga: stream; weka: wood-hen",
+   "Meaning": "Weka stream"
+ },
+ {
+   "Place name": "Mangawhata",
+   "Components": "manga: stream; whata: a raised storehouse for food",
+   "Meaning": "Raised storehouse stream"
+ },
+ {
+   "Place name": "Mangawhero",
+   "Components": "manga: stream; whero: red",
+   "Meaning": "Red stream"
+ },
+ {
+   "Place name": "Mangōnui",
+   "Components": "mangō: shark; nui: large or many",
+   "Meaning": "Great shark"
+ },
+ {
+   "Place name": "Mānia-rauhea",
+   "Components": "mānia: plain of flat land; rauhea: tussock grass",
+   "Meaning": "Plain of shining tussock"
+ },
+ {
+   "Place name": "Māniatoto",
+   "Components": "mānia: plain; o: of; toto: blood",
+   "Meaning": "Plain of blood"
+ },
+ {
+   "Place name": "Māniatutu",
+   "Components": "mānia: plain; tutu: a native tree",
+   "Meaning": "Tutu-tree plain"
+ },
+ {
+   "Place name": "Mānui",
+   "Components": "mā: stream; nui: large",
+   "Meaning": "Large stream"
+ },
+ {
+   "Place name": "Maraenui",
+   "Components": "marae: courtyard or meeting area; nui: large",
+   "Meaning": "Great marae"
+ },
+ {
+   "Place name": "Maraeroa",
+   "Components": "marae: courtyard or meeting area; roa: long",
+   "Meaning": "Long marae"
+ },
+ {
+   "Place name": "Maraetai",
+   "Components": "marae: courtyard or meeting area; tai: coast",
+   "Meaning": "Coastal marae"
+ },
+ {
+   "Place name": "Māraroa",
+   "Components": "māra: cultivated area; roa: long, long lasting",
+   "Meaning": "Long lasting cultivations"
+ },
+ {
+   "Place name": "Matakanui",
+   "Components": "mata: face; ka: blow or scar; nui: large",
+   "Meaning": "Scarred face of a large cliff"
+ },
+ {
+   "Place name": "Mataroa",
+   "Components": "mata: headland or bluff; roa: long",
+   "Meaning": "Long headland"
+ },
+ {
+   "Place name": "Maunga Mā",
+   "Components": "maunga: mountain; mā: white",
+   "Meaning": "White mountain"
+ },
+ {
+   "Place name": "Maunga-atua",
+   "Components": "maunga: mountain; atua: gods",
+   "Meaning": "Mountain of the gods"
+ },
+ {
+   "Place name": "Maungaharuru",
+   "Components": "maunga: mountain; haruru: to rumble",
+   "Meaning": "Rumbling mountain"
+ },
+ {
+   "Place name": "Maungahaumi",
+   "Components": "maunga: mountain; haumi: timber to lengthen or raise the sides of a canoe",
+   "Meaning": "Mountain of canoe timber"
+ },
+ {
+   "Place name": "Maungakaramea",
+   "Components": "maunga: mountain; karamea: red ochre or speargrass",
+   "Meaning": "Red ochre mountain"
+ },
+ {
+   "Place name": "Maungakiekie",
+   "Components": "maunga: mountain; kiekie: a climbing plant",
+   "Meaning": "Kiekie plant mountain"
+ },
+ {
+   "Place name": "Maunganui",
+   "Components": "maunga: mountain; nui: tall or large",
+   "Meaning": "Large mountain"
+ },
+ {
+   "Place name": "Maungapōhatu",
+   "Components": "maunga: mountain; pōhatu: rock or stone",
+   "Meaning": "Rocky mountain"
+ },
+ {
+   "Place name": "Maungaraki",
+   "Components": "maunga: mountain or mountains; raki: north",
+   "Meaning": "Northern mountain"
+ },
+ {
+   "Place name": "Maungaroa",
+   "Components": "maunga: mountain; roa: long",
+   "Meaning": "Long mountain"
+ },
+ {
+   "Place name": "Maungataketake",
+   "Components": "maunga: mountain; taketake: base, long-established or well-founded",
+   "Meaning": "Broad mountain"
+ },
+ {
+   "Place name": "Maungataniwha",
+   "Components": "maunga: mountain; taniwha: supernatural creature",
+   "Meaning": "Taniwha mountain"
+ },
+ {
+   "Place name": "Maungatāpere",
+   "Components": "maunga: mountain; tāpere: red, volcanic earth",
+   "Meaning": "Mountain of red volcanic earth"
+ },
+ {
+   "Place name": "Maungatapu",
+   "Components": "maunga: mountain; tapu: sacred or forbidden",
+   "Meaning": "Sacred mountain"
+ },
+ {
+   "Place name": "Maungatautari",
+   "Components": "maunga: mountain; tautari: an upright stick",
+   "Meaning": "Mountain of the upright stick"
+ },
+ {
+   "Place name": "Maungatī",
+   "Components": "maunga: mountain; tī: cabbage tree",
+   "Meaning": "Cabbage tree mountain"
+ },
+ {
+   "Place name": "Maungatua",
+   "Components": "maunga: mountain; a: of; atua: god",
+   "Meaning": "Mountain of the gods"
+ },
+ {
+   "Place name": "Maungatūroto",
+   "Components": "maunga: mountain; tū: to stand; roto: lake",
+   "Meaning": "Mountain standing up in lagoons"
+ },
+ {
+   "Place name": "Maungawera",
+   "Components": "maunga: mountain; wera: burnt or hot",
+   "Meaning": "Burnt mountain"
+ },
+ {
+   "Place name": "Maungawhau",
+   "Components": "maunga: mountain; whau: a native tree",
+   "Meaning": "Whau tree mountain"
+ },
+ {
+   "Place name": "Māwheranui",
+   "Components": "Māwhera: open, widesread; nui: large (referring particularly to the river mouth).",
+   "Meaning": "Broad and widespread (river mouth)"
+ },
+ {
+   "Place name": "Mititai",
+   "Components": "miti: to lick; tai: tide",
+   "Meaning": "Lick the tide"
+ },
+ {
+   "Place name": "Moana",
+   "Components": "Ocean or large lake",
+   "Meaning": "Ocean"
+ },
+ {
+   "Place name": "Moanariri",
+   "Components": "moana: sea; riri: to be angry or to fight",
+   "Meaning": "Angry sea"
+ },
+ {
+   "Place name": "Moanaroa",
+   "Components": "moana: ocean; roa: large or broad",
+   "Meaning": "Broad sea"
+ },
+ {
+   "Place name": "Moanawhenuapōuri",
+   "Components": "moana: sea; whenua: land; pōuri: sad or dark",
+   "Meaning": "Sombre arm of the sea"
+ },
+ {
+   "Place name": "Moeroa",
+   "Components": "moe: to sleep; roa: long",
+   "Meaning": "Long sleep"
+ },
+ {
+   "Place name": "Mōkihinui",
+   "Components": "mōkihi: raft made of flax stalks; nui: large",
+   "Meaning": "Large flax-stalk raft"
+ },
+ {
+   "Place name": "Mokoroa",
+   "Components": "moko: tattoo; roa: long",
+   "Meaning": "Long tattoo"
+ },
+ {
+   "Place name": "Mokoroa: Mokoroa Stream",
+   "Components": "moko: lizard; roa; long",
+   "Meaning": "Long lizard"
+ },
+ {
+   "Place name": "Motuara: Motuara Island",
+   "Components": "motu: island; ara: path",
+   "Meaning": "Island in the path (of a canoe)"
+ },
+ {
+   "Place name": "Motuarohia: Motuarohia Island",
+   "Components": "motu:island; arohia: reconnoitred",
+   "Meaning": "Reconnoitred island"
+ },
+ {
+   "Place name": "Motukairangi",
+   "Components": "motu: island; kairangi: wonderful, chief, or wandering",
+   "Meaning": "Wonderful island"
+ },
+ {
+   "Place name": "Motukaraka",
+   "Components": "motu: clump of trees; karaka: native tree",
+   "Meaning": "Clump of karaka trees"
+ },
+ {
+   "Place name": "Motukāranui",
+   "Components": "Motu: island; karā: basalt; nui: large",
+   "Meaning": "Island of large basalt stone"
+ },
+ {
+   "Place name": "Motukauatiiti",
+   "Components": "motu: grove of trees; kauati: rubbing stick for firemaking; iti: little",
+   "Meaning": "Little clump of trees used for fire sticks"
+ },
+ {
+   "Place name": "Motukauatirahi",
+   "Components": "motu: grove of trees; kauati: rubbing stick for firemaking; rahi: large",
+   "Meaning": "Large clump of trees used for fire sticks"
+ },
+ {
+   "Place name": "Motukauri: Motukauri Island",
+   "Components": "motu: island; kauri: native tree",
+   "Meaning": "Clump of kauri trees"
+ },
+ {
+   "Place name": "Motukiekie",
+   "Components": "motu: island; kiekie: a native plant",
+   "Meaning": "Kiekie island"
+ },
+ {
+   "Place name": "Motukina",
+   "Components": "motu: island or isolated headland; kina: sea urchin",
+   "Meaning": "Kina island"
+ },
+ {
+   "Place name": "Motukiore",
+   "Components": "motu: island; kiore: native rat",
+   "Meaning": "Rat island"
+ },
+ {
+   "Place name": "Motukokopu",
+   "Components": "motu: island; kokopu: cockabully fish",
+   "Meaning": "Cockabully island"
+ },
+ {
+   "Place name": "Motumāhanga",
+   "Components": "motu: island; māhanga: twin",
+   "Meaning": "Twin islands"
+ },
+ {
+   "Place name": "Motumaire",
+   "Components": "motu: island; maire: native tree",
+   "Meaning": "Maire island"
+ },
+ {
+   "Place name": "Motumaoho",
+   "Components": "motu: clump of trees; maoho: to intrude",
+   "Meaning": "Intruding clump of trees"
+ },
+ {
+   "Place name": "Motunau",
+   "Components": "motu: island; nau: scurvy grass",
+   "Meaning": "Scurvy grass island"
+ },
+ {
+   "Place name": "Motungārara",
+   "Components": "motu: island; ngārara: lizard",
+   "Meaning": "Lizard island"
+ },
+ {
+   "Place name": "Motunui",
+   "Components": "motu: island; nui: large",
+   "Meaning": "Large island"
+ },
+ {
+   "Place name": "Motuoapa",
+   "Components": "motu: island or grove of trees; o: of; Apa",
+   "Meaning": "Grove of trees belonging to Apa"
+ },
+ {
+   "Place name": "Motu-o-Kura",
+   "Components": "motu: island; o: of; Kura",
+   "Meaning": "Island of Kura"
+ },
+ {
+   "Place name": "Motuopuhi: Motuopuhi Island",
+   "Components": "motu: island; o: of; Puhi",
+   "Meaning": "Island of Puhi"
+ },
+ {
+   "Place name": "Motuoroi: Motuoroi Island",
+   "Components": "motu: island; o: of; Roi",
+   "Meaning": "Island of Roi"
+ },
+ {
+   "Place name": "Motuotaraia",
+   "Components": "motu: isolated area; o: of; Taraia",
+   "Meaning": "Isolated area of Taraia"
+ },
+ {
+   "Place name": "Motupipi",
+   "Components": "motu: island; pipi: common edible shellfish",
+   "Meaning": "Pipi island"
+ },
+ {
+   "Place name": "Motupiu",
+   "Components": "motu: island; piu: to swing",
+   "Meaning": "Swinging island"
+ },
+ {
+   "Place name": "Moturoa",
+   "Components": "motu: island; roa: long",
+   "Meaning": "Long island"
+ },
+ {
+   "Place name": "Motutaiko",
+   "Components": "motu: island; taiko: petrel",
+   "Meaning": "Island of the black petrel"
+ },
+ {
+   "Place name": "Motutapu: Motutapu Island",
+   "Components": "motu: island; tapu: sacred or forbidden",
+   "Meaning": "Sacred island"
+ },
+ {
+   "Place name": "Motutara: Motutara Island",
+   "Components": "motu: island; tara: gull",
+   "Meaning": "Gull island"
+ },
+ {
+   "Place name": "Motutawa",
+   "Components": "motu: island; tawa: a tree",
+   "Meaning": "Tawa tree island"
+ },
+ {
+   "Place name": "Motutere",
+   "Components": "motu: island; tere: to float",
+   "Meaning": "Floating island"
+ },
+ {
+   "Place name": "Muritai",
+   "Components": "muri: breeze; tai: sea or tide",
+   "Meaning": "Sea breeze"
+ },
+ {
+   "Place name": "Muriwai",
+   "Components": "muri: end; wai: water",
+   "Meaning": "Waters’ end"
+ },
+ {
+   "Place name": "Ngākawau",
+   "Components": "ngā: the; kauwau: shags",
+   "Meaning": "The shags"
+ },
+ {
+   "Place name": "Ngāmatapōuri",
+   "Components": "ngā: the; matapōuri: black teal",
+   "Meaning": "The black teals"
+ },
+ {
+   "Place name": "Ngāmoko",
+   "Components": "ngā: the; moko: lizards",
+   "Meaning": "The lizards"
+ },
+ {
+   "Place name": "Ngāmotu",
+   "Components": "ngā: the; motu: islands",
+   "Meaning": "The islands"
+ },
+ {
+   "Place name": "Ngāpōhatu",
+   "Components": "ngā: the; pōhatu: rocks",
+   "Meaning": "The rocks"
+ },
+ {
+   "Place name": "Ngāpuhi",
+   "Components": "ngā: the; puhi: plumes",
+   "Meaning": "The plumes"
+ },
+ {
+   "Place name": "Ngāpuna",
+   "Components": "ngā; the; puna: springs",
+   "Meaning": "The springs"
+ },
+ {
+   "Place name": "Ngārimu Bay",
+   "Components": "ngā: the; rimu: native tree",
+   "Meaning": "The rimu trees"
+ },
+ {
+   "Place name": "Ngāroma",
+   "Components": "nga: the; roma: currents",
+   "Meaning": "The currents"
+ },
+ {
+   "Place name": "Ngaionui",
+   "Components": "ngaio: a native tree; nui: large or many",
+   "Meaning": "Great ngaio tree"
+ },
+ {
+   "Place name": "Ngāpuke",
+   "Components": "ngā: the; puke: hills",
+   "Meaning": "The hills"
+ },
+ {
+   "Place name": "Ngāroto",
+   "Components": "ngā: the; roto: lakes",
+   "Meaning": "The lakes"
+ },
+ {
+   "Place name": "Ngātira",
+   "Components": "ngā; the; tira: parties of travellers",
+   "Meaning": "The parties of travellers"
+ },
+ {
+   "Place name": "Ngātuku",
+   "Components": "ngā: the; tuku: ridges of a hill",
+   "Meaning": "The ridges of a hill"
+ },
+ {
+   "Place name": "Ngāūranga",
+   "Components": "ngā: the; ūranga: landing place for canoes",
+   "Meaning": "The landing place for canoes"
+ },
+ {
+   "Place name": "Ngāurukehu",
+   "Components": "ngā: the; urukehu: red-haired, fair-skinned Māori",
+   "Meaning": "The red-haired, fair-skinned Māori"
+ },
+ {
+   "Place name": "Ngāwaka",
+   "Components": "ngā: the; waka: canoes",
+   "Meaning": "The canoes"
+ },
+ {
+   "Place name": "Ngāwaro",
+   "Components": "ngā: the; waro: burning coals",
+   "Meaning": "The burning coals"
+ },
+ {
+   "Place name": "Ngāwhā",
+   "Components": "ngāwhā: hot springs",
+   "Meaning": "The hot springs"
+ },
+ {
+   "Place name": "Ngāwhatu",
+   "Components": "ngā: the; whatu: eyes",
+   "Meaning": "The eyes"
+ },
+ {
+   "Place name": "Ngāwī",
+   "Components": "ngā: the; wī: native tussock grass",
+   "Meaning": "The native tussock grass"
+ },
+ {
+   "Place name": "Ngutunui",
+   "Components": "ngutu: lip; nui: big",
+   "Meaning": "Big lips"
+ },
+ {
+   "Place name": "Nukumānia",
+   "Components": "nuku: wide extent; mānia: plains",
+   "Meaning": "Wide plains"
+ },
+ {
+   "Place name": "Nukuroa",
+   "Components": "nuku: to move; roa: long",
+   "Meaning": "Long travles"
+ },
+ {
+   "Place name": "Ōamaru",
+   "Components": "ō: place; a: of; Maru",
+   "Meaning": "The place of Maru"
+ },
+ {
+   "Place name": "Ōaonui",
+   "Components": "ō: place of; ao: clouds: nui: many",
+   "Meaning": "Place of many clouds"
+ },
+ {
+   "Place name": "Ōaro",
+   "Components": "ō: place of; aro: front",
+   "Meaning": "Front-facing place"
+ },
+ {
+   "Place name": "Ōeo",
+   "Components": "ō: place of; eo: louse or lice",
+   "Meaning": "Place of lice"
+ },
+ {
+   "Place name": "Ōhaeawai",
+   "Components": "ō: place of; haeawai: thermal waters",
+   "Meaning": "Place of thermal waters"
+ },
+ {
+   "Place name": "Ohakune",
+   "Components": "ō: place of; hakune: to be careful",
+   "Meaning": "Place of care"
+ },
+ {
+   "Place name": "Ōhāngai",
+   "Components": "ō: place of; hāngai: opposite, across, or at right angles",
+   "Meaning": "Opposite place"
+ },
+ {
+   "Place name": "Ōhau",
+   "Components": "ō: place of; Hau",
+   "Meaning": "Place of Hau"
+ },
+ {
+   "Place name": "Ōhauiti",
+   "Components": "ō: place of; hau: wind; iti: little",
+   "Meaning": "Place of little wind"
+ },
+ {
+   "Place name": "Ōhaupō",
+   "Components": "ō: place of; hau: wind; pō: night",
+   "Meaning": "Place of a breeze at night"
+ },
+ {
+   "Place name": "Ōhawe",
+   "Components": "ō: place of; hawe: bend in a river or path",
+   "Meaning": "Place of many (river) bends"
+ },
+ {
+   "Place name": "Ōhikaiti",
+   "Components": "ō: place of; hika: a rite involving certain incantations; iti: small",
+   "Meaning": "The place of small incantations"
+ },
+ {
+   "Place name": "Ōhikanui",
+   "Components": "ō: place of; hika: a rite involving certain incantations; nui: large",
+   "Meaning": "The place of large incantations"
+ },
+ {
+   "Place name": "Ōhinekura",
+   "Components": "Named after Hinekura",
+   "Meaning": "Place of Hinekura"
+ },
+ {
+   "Place name": "Ōhinepanea",
+   "Components": "ō: place of; Hinepanea: probably a personal name",
+   "Meaning": "Place of Hinepanea"
+ },
+ {
+   "Place name": "Ōhinerau",
+   "Components": "ō: place of; Hinerau, the goddess of whirlwinds",
+   "Meaning": "Place of Hinerau"
+ },
+ {
+   "Place name": "Ōhinerehia",
+   "Components": "ō: place of; Hinerehia, a legendary creature or mermaid.",
+   "Meaning": "Place of Hinerēhia"
+ },
+ {
+   "Place name": "Ōhingahape",
+   "Components": "ō: place of; hinga: fall; hape: crooked foot",
+   "Meaning": "Place of a slip causing a crooked foot"
+ },
+ {
+   "Place name": "Ōhiwa",
+   "Components": "ō: place of; hiwa: watchful or alert",
+   "Meaning": "Place of alertness"
+ },
+ {
+   "Place name": "Ōhoka",
+   "Components": "ō: place of; hoka: a stake to which a decoy kākā (parrot) was tied. Earlier spelt Hohoka",
+   "Meaning": "Place of the stake for a decoy parrot"
+ },
+ {
+   "Place name": "Ōhope",
+   "Components": "ō: place of; hope (or ope): main body of an army",
+   "Meaning": "Place of main body of an army"
+ },
+ {
+   "Place name": "Ōhotu",
+   "Components": "ō: place of; hotu: fifteenth night of the moon",
+   "Meaning": "Place of fifteenth night of the moon"
+ },
+ {
+   "Place name": "Ōhoukākā",
+   "Components": "ō: place of; hou: feather; kākā: parrot",
+   "Meaning": "Place of the parrot feather"
+ },
+ {
+   "Place name": "Ōhura",
+   "Components": "ō: place of; hura: to uncover, or uncovered spot",
+   "Meaning": "Place which is uncovered"
+ },
+ {
+   "Place name": "Ōihi",
+   "Components": "ō: place of; ihi: power or authority",
+   "Meaning": "Place of spiritual power"
+ },
+ {
+   "Place name": "Ōio",
+   "Components": "ō: place of; io: spur",
+   "Meaning": "Place of the spur"
+ },
+ {
+   "Place name": "Ōkahu",
+   "Components": "ō: place of; Kahu",
+   "Meaning": "Place of Kahu"
+ },
+ {
+   "Place name": "Ōkahukura",
+   "Components": "ō: place of; Kahukura: atua related to rainbow",
+   "Meaning": "Place of Kahukura"
+ },
+ {
+   "Place name": "Ōkahutai",
+   "Components": "ō: place; kahu: garment; tai: tide",
+   "Meaning": "Place of cloaking waters"
+ },
+ {
+   "Place name": "Ōkaihae",
+   "Components": "ō: place of; kai: food; hae: to dislike",
+   "Meaning": "Place of disliked food"
+ },
+ {
+   "Place name": "Ōkaihau",
+   "Components": "ō: place of; kai: to eat or food; hau: wind",
+   "Meaning": "Place of feast of the winds"
+ },
+ {
+   "Place name": "Ōkarae",
+   "Components": "ō: place of; karae: a seabird",
+   "Meaning": "Place of the seabird"
+ },
+ {
+   "Place name": "Ōkarahia",
+   "Components": "ō: place of; karahia: assistance called for in war, in this case in vain",
+   "Meaning": "Place of a call for assistance"
+ },
+ {
+   "Place name": "Ōkareka",
+   "Components": "ō: food for a long journey; kareka: sweet or tasty",
+   "Meaning": "Sweet food for a long journey"
+ },
+ {
+   "Place name": "Ōkārito",
+   "Components": "ō: place of; karito: young shoots of the bulrush or raupō",
+   "Meaning": "Place of young shoots of the bulrush"
+ },
+ {
+   "Place name": "Ōkataina",
+   "Components": "ō: place of; kataina: laughter",
+   "Meaning": "Place of laughter"
+ },
+ {
+   "Place name": "Ōkato",
+   "Components": "ō: place of; Kato: a personal name",
+   "Meaning": "Place of Kato"
+ },
+ {
+   "Place name": "Ōkau",
+   "Components": "ō: place of; kau: to swim",
+   "Meaning": "Place of swimming"
+ },
+ {
+   "Place name": "Ōkauia",
+   "Components": "ō: place of; kauia: articles threaded on string or on a stick",
+   "Meaning": "Place of articles threaded on a stick"
+ },
+ {
+   "Place name": "Ōkawa",
+   "Components": "ō: place of; kawa: bitter",
+   "Meaning": "Place of bitter (water)"
+ },
+ {
+   "Place name": "Ōkehu",
+   "Components": "ō: place of; Kehu: a personal name",
+   "Meaning": "Place of Kehu"
+ },
+ {
+   "Place name": "Ōkere",
+   "Components": "ō: place of; kere: to drift or float",
+   "Meaning": "Place of drifting"
+ },
+ {
+   "Place name": "Ōkete",
+   "Components": "ō: place of; kete: basket",
+   "Meaning": "Place of baskets"
+ },
+ {
+   "Place name": "Ōkiato",
+   "Components": "ō: place of; kīato: a receptacle for holding sacred objects",
+   "Meaning": "Place of receptable for holding sacred objects"
+ },
+ {
+   "Place name": "Ōkiwi",
+   "Components": "ō: place of; kiwi: native bird",
+   "Meaning": "Place of the kiwi"
+ },
+ {
+   "Place name": "Ōkiwi",
+   "Components": "ō: place of; Kiwi",
+   "Meaning": "Place of Kiwi"
+ },
+ {
+   "Place name": "Ōkoki",
+   "Components": "ō: place of; koki: a small canoe",
+   "Meaning": "Place of a small canoe"
+ },
+ {
+   "Place name": "Ōkoroire",
+   "Components": "ō: place of; koroire: ring-necked native duck, now extinct",
+   "Meaning": "Place of the koroire duck"
+ },
+ {
+   "Place name": "Ōkōtuku",
+   "Components": "ō: place of; kōtuku: white heron",
+   "Meaning": "Place of the white heron"
+ },
+ {
+   "Place name": "Ōkupu",
+   "Components": "ō: place of; kupu: message",
+   "Meaning": "Place of a message"
+ },
+ {
+   "Place name": "Ōkura",
+   "Components": "ō: place; kura: red",
+   "Meaning": "Place of red (clay)"
+ },
+ {
+   "Place name": "Ōkuri",
+   "Components": "ō: place of; kurī: Polynesian dog",
+   "Meaning": "Place of the Polynesian dog"
+ },
+ {
+   "Place name": "Ōmaha",
+   "Components": "ō: place of; maha: pleasure",
+   "Meaning": "Place of pleasure"
+ },
+ {
+   "Place name": "Ōmahu",
+   "Components": "ō: place of; ō: provisions for a travelling party; Mahu: a personal name",
+   "Meaning": "The place where Mahu ran out of food."
+ },
+ {
+   "Place name": "Ōmāio",
+   "Components": "ō: place of; māio: calm",
+   "Meaning": "Place of calm"
+ },
+ {
+   "Place name": "Ōmaka",
+   "Components": "ō: place of; maka: South island form of manga (stream)",
+   "Meaning": "Place of the stream"
+ },
+ {
+   "Place name": "Ōmakau",
+   "Components": "ō: place of; makau: spouse",
+   "Meaning": "Belonging to husband and wife"
+ },
+ {
+   "Place name": "Ōmakere",
+   "Components": "ō: place of; makere: to be lost, abandoned or to die",
+   "Meaning": "Place of abandonment"
+ },
+ {
+   "Place name": "Ōmāmari",
+   "Components": "ō: place of; Māmari: a famous canoe that come from Hawaiki.",
+   "Meaning": "Place of Māmari canoe"
+ },
+ {
+   "Place name": "Ōmana",
+   "Components": "ō: place of; Mana: a personal name",
+   "Meaning": "Place of Mana"
+ },
+ {
+   "Place name": "Ōmanaia",
+   "Components": "ō: place of; Manaia: a personal name",
+   "Meaning": "Place of Manaia"
+ },
+ {
+   "Place name": "Ōmanawa",
+   "Components": "ō: place of; Manawa: a personal name",
+   "Meaning": "Place of Manawa"
+ },
+ {
+   "Place name": "Ōmanawanui",
+   "Components": "ō: place of; manawanui: stout-hearted, long-suffering or forbearing",
+   "Meaning": "Place of unswerving dedication"
+ },
+ {
+   "Place name": "Ōmāpere",
+   "Components": "ō: place of; māpere: cutty grass",
+   "Meaning": "Place of cutty grass"
+ },
+ {
+   "Place name": "Ōmarama",
+   "Components": "ō: place of; Marama: a personal name",
+   "Meaning": "Place of Marama"
+ },
+ {
+   "Place name": "Ōmaru",
+   "Components": "ō: place of; maru: shelter",
+   "Meaning": "Place of shelter"
+ },
+ {
+   "Place name": "Ōmarumutu",
+   "Components": "ō: place of; maru: shade or shelter; mutu: cut off or terminated",
+   "Meaning": "Place of cut-off shelter"
+ },
+ {
+   "Place name": "Ōmarunui",
+   "Components": "ō: place of; maru: shade; nui: great or much",
+   "Meaning": "Place of great shade"
+ },
+ {
+   "Place name": "Ōmarupāpaku",
+   "Components": "ō: place of; maru: shade; pāpaku: shallow",
+   "Meaning": "Place of shallow shade"
+ },
+ {
+   "Place name": "Ōmaui",
+   "Components": "ō: place of; Māui",
+   "Meaning": "Place of Māui"
+ },
+ {
+   "Place name": "Ōmihi",
+   "Components": "ō: place of; mihi: greeting; also possibly wailing or lamentation",
+   "Meaning": "Place of greeting"
+ },
+ {
+   "Place name": "Ōmimi",
+   "Components": "ō: place o; mimi: urine",
+   "Meaning": "Place of urine"
+ },
+ {
+   "Place name": "Ōmoana",
+   "Components": "ō: place of; moana: ocean",
+   "Meaning": "Place of the sea"
+ },
+ {
+   "Place name": "Ōmoeroa",
+   "Components": "ō: place of; moe: sleep; roa: long",
+   "Meaning": "Place of the long sleep"
+ },
+ {
+   "Place name": "Ōnaeroa",
+   "Components": "ō: place of; naeroa: mosquitoes",
+   "Meaning": "Place of mosquitoes"
+ },
+ {
+   "Place name": "Ōnawe",
+   "Components": "ō: place of; nawe: to set on fire",
+   "Meaning": "Place of arson"
+ },
+ {
+   "Place name": "Ōnehunga",
+   "Components": "ō: place of; nehunga: burial",
+   "Meaning": "Place of burial"
+ },
+ {
+   "Place name": "Ōnekakā",
+   "Components": "one: sand; kākā: hot",
+   "Meaning": "Hot sand"
+ },
+ {
+   "Place name": "Onekawa",
+   "Components": "one: sand; kawa: bitter or sour",
+   "Meaning": "Salty soil"
+ },
+ {
+   "Place name": "Ōnekeneke",
+   "Components": "ō: place of; nekeneke: to move gradually",
+   "Meaning": "Place of movement"
+ },
+ {
+   "Place name": "Onemaewao",
+   "Components": "one: sand; Maewao: fairy-like beings",
+   "Meaning": "Place of the Maewao (fairy-like beings)"
+ },
+ {
+   "Place name": "Oneone",
+   "Components": "oneone: earth, soil",
+   "Meaning": "Earth"
+ },
+ {
+   "Place name": "Onepoto",
+   "Components": "one: beach; poto: short",
+   "Meaning": "Short beach"
+ },
+ {
+   "Place name": "Onepū",
+   "Components": "one: sand; pū: loose",
+   "Meaning": "Loose sandy soil"
+ },
+ {
+   "Place name": "Onepunui",
+   "Components": "one: sand; pupuni: covered, fill up",
+   "Meaning": "Extensive sand dune"
+ },
+ {
+   "Place name": "Onerahi",
+   "Components": "one: beach; rahi: long or wide",
+   "Meaning": "Long beach"
+ },
+ {
+   "Place name": "Oneriri",
+   "Components": "one: beach; riri: combat, battle, fight, to quarrel or be angry",
+   "Meaning": "Battle beach"
+ },
+ {
+   "Place name": "Oneroa",
+   "Components": "one: sand or beach; roa: long",
+   "Meaning": "Long beach"
+ },
+ {
+   "Place name": "Onetahua",
+   "Components": "one: sand; tahua: heaped up",
+   "Meaning": "Heaped-up sand (sand dunes)"
+ },
+ {
+   "Place name": "Onetangi",
+   "Components": "one: sandy beach; tangi: to weep or to sound",
+   "Meaning": "Beach of weeping"
+ },
+ {
+   "Place name": "Onetapu",
+   "Components": "one: sand or in this case, desert; tapu: sacred or forbidden",
+   "Meaning": "Sacred desert"
+ },
+ {
+   "Place name": "Onetea",
+   "Components": "one: sandy soil; tea: light-coloured",
+   "Meaning": "Light soil"
+ },
+ {
+   "Place name": "Onewhero",
+   "Components": "one: soil; whero: red",
+   "Meaning": "Red soil"
+ },
+ {
+   "Place name": "Ōngāroto",
+   "Components": "ō: place of; ngā: the; roto: lakes",
+   "Meaning": "Place of the lakes"
+ },
+ {
+   "Place name": "Ōngāruānuku",
+   "Components": "ō: place; ngā; the; ruānuku: learned people",
+   "Meaning": "Place of the learned people"
+ },
+ {
+   "Place name": "Ōngarue",
+   "Components": "ō: place of; ngarue: to shake, as in an earthquake",
+   "Meaning": "Place of shaking"
+ },
+ {
+   "Place name": "Ōngātoro",
+   "Components": "ō: place of; Ngātoro: personal name",
+   "Meaning": "The place of Ngātoro"
+ },
+ {
+   "Place name": "Ōnoke",
+   "Components": "ō: place of; noke: earthworm",
+   "Meaning": "Place of earthworms"
+ },
+ {
+   "Place name": "Ōnuku",
+   "Components": "ō: place of; nuku: food for a journey",
+   "Meaning": "Place of Nuku"
+ },
+ {
+   "Place name": "Ōpaheke",
+   "Components": "ō: place of; paheke: slip or landslide",
+   "Meaning": "Place of a landslide"
+ },
+ {
+   "Place name": "Ōpaki",
+   "Components": "ō: place of; paki: fine weather",
+   "Meaning": "Place of fine weather"
+ },
+ {
+   "Place name": "Ōpakū",
+   "Components": "ō: place of; pakū: to make a sudden sound or report, to resound or to knock",
+   "Meaning": "Place of sudden noise"
+ },
+ {
+   "Place name": "Ōpanuku",
+   "Components": "ō: place of; Panuku: a personal name",
+   "Meaning": "Place of Panuku"
+ },
+ {
+   "Place name": "Ōpapa",
+   "Components": "ō: place of; papa: flat land",
+   "Meaning": "Place of flat land"
+ },
+ {
+   "Place name": "Ōpara",
+   "Components": "ō: place of; para: mud or dust, or a place where sacred ceremonies were performed",
+   "Meaning": "Place of mud"
+ },
+ {
+   "Place name": "Ōpararā",
+   "Components": "ō: place of; parara: to lie open towards",
+   "Meaning": "A place which lies open (to the Tasman Sea)"
+ },
+ {
+   "Place name": "Ōparau",
+   "Components": "ō: place of; pa: fortified villages; rau: many; or parau: dissembling or falsehood",
+   "Meaning": "Place of many fortified villages; or Place of falsehood"
+ },
+ {
+   "Place name": "Ōpārure",
+   "Components": "ō: place of; pārure: to plunder",
+   "Meaning": "Place of plunder"
+ },
+ {
+   "Place name": "Ōpepe",
+   "Components": "ō: place of; pepe: moth",
+   "Meaning": "Place of the moth"
+ },
+ {
+   "Place name": "Ōpihi",
+   "Components": "ō: place of; pihi: springing up (referring to plants)",
+   "Meaning": "Place of springing-up (plants)"
+ },
+ {
+   "Place name": "Ōpiki",
+   "Components": "ō: place of; piki: to climb or ascend",
+   "Meaning": "Place of climbing"
+ },
+ {
+   "Place name": "Ōpito",
+   "Components": "ō: place of; pito: umbilical cord",
+   "Meaning": "Place of umbilical cords"
+ },
+ {
+   "Place name": "Ōpoe",
+   "Components": "ō: place of; Poe",
+   "Meaning": "Place of Poe"
+ },
+ {
+   "Place name": "Ōpoho",
+   "Components": "ō: place of; Poho",
+   "Meaning": "Place of Poho"
+ },
+ {
+   "Place name": "Ōpononi",
+   "Components": "ō: place of; pou: post; noni: crooked",
+   "Meaning": "Place of crooked fishing post"
+ },
+ {
+   "Place name": "Ōpōuri",
+   "Components": "ō: place of; pōuri: sadness",
+   "Meaning": "Place of sadness"
+ },
+ {
+   "Place name": "Ōpoutama",
+   "Components": "ō: place of; poutama: pattern on the tukutuku panels of a whare",
+   "Meaning": "Place of the poutama pattern"
+ },
+ {
+   "Place name": "Ōpoutere",
+   "Components": "ō: place of; pou: pour out; tere: quickly",
+   "Meaning": "The place (where the sea-waters) swiftly empty out"
+ },
+ {
+   "Place name": "Ōpua",
+   "Components": "ō: place of; pua: flower",
+   "Meaning": "Place of the flower"
+ },
+ {
+   "Place name": "Ōpuke",
+   "Components": "ō: place of; puke: hill",
+   "Meaning": "Place of the hill"
+ },
+ {
+   "Place name": "Ōrākau",
+   "Components": "ō: place of; rakau: trees",
+   "Meaning": "Place of trees"
+ },
+ {
+   "Place name": "Ōrākei",
+   "Components": "ō: place of; rākei: adornment",
+   "Meaning": "Place of adornment"
+ },
+ {
+   "Place name": "Ōrakei Kōrako",
+   "Components": "ō: place of; rakei: adornment; kōrako: white",
+   "Meaning": "Place of adornment near the white (sinter flat)"
+ },
+ {
+   "Place name": "Ōranga",
+   "Components": "ō: place of; ranga: rising ground, hill, sandbank, or fishing ground",
+   "Meaning": "Place of rising ground"
+ },
+ {
+   "Place name": "Ōrarī",
+   "Components": "ō: place of; rarī: butterfish",
+   "Meaning": "Place of the butterfish"
+ },
+ {
+   "Place name": "Ōrātia",
+   "Components": "ō: place of; ra: sun; tia: persistency",
+   "Meaning": "Place of long-lingering sun"
+ },
+ {
+   "Place name": "Ōrere",
+   "Components": "ō: place of; rere: waterfall",
+   "Meaning": "Place of the waterfall"
+ },
+ {
+   "Place name": "Ōreti",
+   "Components": "ō: place of; reti: snare",
+   "Meaning": "Place of the snare"
+ },
+ {
+   "Place name": "Ōringi",
+   "Components": "ō: place of; Ringi",
+   "Meaning": "Place of Ringi"
+ },
+ {
+   "Place name": "Ōrongo",
+   "Components": "ō: place of; rongo: listening-post",
+   "Meaning": "Place of the listening post"
+ },
+ {
+   "Place name": "Ōrongorongo",
+   "Components": "o: of; rongorongo: a woman’s name",
+   "Meaning": "Place of Rongorongo"
+ },
+ {
+   "Place name": "Ōropi",
+   "Components": "ō: place of; ropi: to cover up",
+   "Meaning": "Place of covering up"
+ },
+ {
+   "Place name": "Ōroua",
+   "Components": "ō: place of; roua: dredging for shellfish",
+   "Meaning": "Place of dredging for shellfish"
+ },
+ {
+   "Place name": "Ōruaiti",
+   "Components": "ō: place of; rua: pit; iti: small",
+   "Meaning": "Place of small pit"
+ },
+ {
+   "Place name": "Ōruanui",
+   "Components": "ō: place of; rua: pit; nui: large or many",
+   "Meaning": "Place of many pits"
+ },
+ {
+   "Place name": "Ōruawairua",
+   "Components": "ō: place of; rua: two; wairua: soul or spirit",
+   "Meaning": "Meeting-place of spirits"
+ },
+ {
+   "Place name": "Ōruawharo",
+   "Components": "ō: place of; rua: hole or pit; whārō: stretched out in full length",
+   "Meaning": "Place of stretched-out pit"
+ },
+ {
+   "Place name": "Ōruawharo",
+   "Components": "ō: place of; Ruawharo: a personal name",
+   "Meaning": "Place of Ruawharo"
+ },
+ {
+   "Place name": "Ōrukuwai",
+   "Components": "ō: place of; Rukuwai: a personal name",
+   "Meaning": "Place of Rukuwai"
+ },
+ {
+   "Place name": "Ōruru",
+   "Components": "ō: place of; ruru: morepork",
+   "Meaning": "Place of the morepork"
+ },
+ {
+   "Place name": "Ōrurutūmārō",
+   "Components": "ō: place of; ruru: morepork; tū: stand; mārō: firm",
+   "Meaning": "Place of the unmoving morepork"
+ },
+ {
+   "Place name": "Ōtāhei",
+   "Components": "ō: place of; tāhei: a bird snare",
+   "Meaning": "Place of the bird snare"
+ },
+ {
+   "Place name": "Ōtahu",
+   "Components": "ō: place of; Tahu: a personal name",
+   "Meaning": "Place of Tahu"
+ },
+ {
+   "Place name": "Ōtāhūhū",
+   "Components": "ō: place of tāhūhū: ridgepole of a house",
+   "Meaning": "Place of the ridgepole of a house"
+ },
+ {
+   "Place name": "Ōtaihanga",
+   "Components": "ō: place of: Taihanga: a personal name",
+   "Meaning": "Place of Taihanga"
+ },
+ {
+   "Place name": "Ōtāika",
+   "Components": "ō: place of; tāika: to lie in a heap",
+   "Meaning": "Place of lying in a heap"
+ },
+ {
+   "Place name": "Ōtakapuneke",
+   "Components": "ō: place of; Takapuneke: a personal name",
+   "Meaning": "Place of Takapuneke"
+ },
+ {
+   "Place name": "Ōtakaro",
+   "Components": "ō: place of; Takaro: a personal name",
+   "Meaning": "Place of Takaro"
+ },
+ {
+   "Place name": "Ōtakeho",
+   "Components": "ō: place of; Takeho: a personal name",
+   "Meaning": "Place of Takeho"
+ },
+ {
+   "Place name": "Ōtaki",
+   "Components": "ō: place of; taki: stick in",
+   "Meaning": "Place of sticking a staff into the ground"
+ },
+ {
+   "Place name": "Ōtākiri",
+   "Components": "ō: place of; tākiri: loosening or making free from tapu",
+   "Meaning": "Place of loosening or freeing from tapu"
+ },
+ {
+   "Place name": "Ōtakou",
+   "Components": "ō: place of; tākou: red ochre",
+   "Meaning": "Place of red ochre; or place of Tākou"
+ },
+ {
+   "Place name": "Ōtama",
+   "Components": "ō: place of;  Tama: a personal name",
+   "Meaning": "Place of Tama"
+ },
+ {
+   "Place name": "Ōtamakura",
+   "Components": "ō: place of; tama: son; kura: ornamented with red feathers",
+   "Meaning": "Place of boy ornamented with red feathers"
+ },
+ {
+   "Place name": "Ōtamarākau",
+   "Components": "ō: place of; tama: young men; rākau: weapons",
+   "Meaning": "Place of young warriors"
+ },
+ {
+   "Place name": "Ōtamarau",
+   "Components": "ō: place of; Tamarau: a personal name",
+   "Meaning": "Place of Tamarau"
+ },
+ {
+   "Place name": "Ōtamatea",
+   "Components": "ō: place of; Tamatea: a personal name",
+   "Meaning": "Place of Tamatea"
+ },
+ {
+   "Place name": "Ōtāne",
+   "Components": "ō: place of; tāne: man",
+   "Meaning": "Place of a man"
+ },
+ {
+   "Place name": "Ōtāngarei",
+   "Components": "ō: place of; tanga: row or company of people; rei: leaping",
+   "Meaning": "Place of group of people leaping"
+ },
+ {
+   "Place name": "Ōtangaroa",
+   "Components": "ō: place of; Tangaroa: a personal name, or the god of the ocean",
+   "Meaning": "Place of Tangaroa"
+ },
+ {
+   "Place name": "Ōtangihaku",
+   "Components": "ō: place of; tangi: to sound or weep; haku: to murmur",
+   "Meaning": "Place of murmured weeping"
+ },
+ {
+   "Place name": "Ōtangimoana",
+   "Components": "ō: place of; tangi: weeping; moana: waters",
+   "Meaning": "Place of weeping waters"
+ },
+ {
+   "Place name": "Ōtangiwai",
+   "Components": "ō: place of; tangi: weeping; wai: waters",
+   "Meaning": "Place of weeping waters"
+ },
+ {
+   "Place name": "Ōtāpara",
+   "Components": "ō: place of; tāpara: desire, or wooden digging implement",
+   "Meaning": "Place of digging implement"
+ },
+ {
+   "Place name": "Ōtāpiri",
+   "Components": "ō: place of; tapiri: a vigorous shoot growing beside the main stem of a plant",
+   "Meaning": "Place of vigorous growing shoot"
+ },
+ {
+   "Place name": "Ōtara",
+   "Components": "ō: place of; tara: peak",
+   "Meaning": "Place of the peak"
+ },
+ {
+   "Place name": "Ōtara",
+   "Components": "ō: place of; Tara: a personal name",
+   "Meaning": "Place of Tara"
+ },
+ {
+   "Place name": "Ōtaraia",
+   "Components": "ō: place of; Taraia: a personal name",
+   "Meaning": "Place of Taraia"
+ },
+ {
+   "Place name": "Ōtaranga",
+   "Components": "ō: place of; taranga: separation",
+   "Meaning": "Place of separation"
+ },
+ {
+   "Place name": "Ōtatara",
+   "Components": "ō: place of; tatara: to untie or loosen",
+   "Meaning": "Place of loosening"
+ },
+ {
+   "Place name": "Ōtauaki",
+   "Components": "ō: place of; tauaki: to show or expose",
+   "Meaning": "Place of exposure"
+ },
+ {
+   "Place name": "Ōtautau",
+   "Components": "ō: place of; tautau: greenstone ear pendant with a straight shank curved at the lower end",
+   "Meaning": "Place of ear pendant"
+ },
+ {
+   "Place name": "Ōtāwēwē",
+   "Components": "ō: place of: tāwēwē: weighted net",
+   "Meaning": "Place of a weighted net"
+ },
+ {
+   "Place name": "Ōtāwhao",
+   "Components": "ō: place of; tāwhao: fragments, refuse or brushwood",
+   "Meaning": "Place of brushwood scrub"
+ },
+ {
+   "Place name": "Ōtehei",
+   "Components": "ō: place of; te: the; hei: neck ornament",
+   "Meaning": "Place of the neck ornament"
+ },
+ {
+   "Place name": "Ōtehīwai",
+   "Components": "ō: place of; te: the; hīwai: springing up",
+   "Meaning": "Place of springing up of water"
+ },
+ {
+   "Place name": "Ōtekura",
+   "Components": "ō: place of; te: the; kura: red feather",
+   "Meaning": "Place of the red feather"
+ },
+ {
+   "Place name": "Ōtepopo",
+   "Components": "ō: place of; te: the; popo: decayed wood",
+   "Meaning": "Place of the decayed wood"
+ },
+ {
+   "Place name": "Ōtipua",
+   "Components": "ō: place of; tipua: enchanted object or person",
+   "Meaning": "Place of supernatural creature"
+ },
+ {
+   "Place name": "Ōtiria",
+   "Components": "ō: place of; tiria: to be planted",
+   "Meaning": "Place of planting"
+ },
+ {
+   "Place name": "Ōtiwhā",
+   "Components": "ō: place of: tiwhā: a patch of shell or wood to cover a hole in a kelp bag",
+   "Meaning": "Place of patch"
+ },
+ {
+   "Place name": "Ōtoatahi",
+   "Components": "ō: place of; toa: warrior; tahi: one",
+   "Meaning": "Place of a single warrior"
+ },
+ {
+   "Place name": "Ōtohi",
+   "Components": "ō: place of; tohi: ritual ceremony",
+   "Meaning": "Place of ceremony"
+ },
+ {
+   "Place name": "Ōtoko",
+   "Components": "ō: place of; toko: stick or staff",
+   "Meaning": "Place of the staff"
+ },
+ {
+   "Place name": "Ōtonga",
+   "Components": "ō: place of; tonga: south, or south wind",
+   "Meaning": "Place of the south wind"
+ },
+ {
+   "Place name": "Ōtoroa",
+   "Components": "ō: place of; toroa: albatross",
+   "Meaning": "Place of the albatross"
+ },
+ {
+   "Place name": "Ōtūkapuarangai",
+   "Components": "ō: place of; tu: to stand; kapua: cloud; rangi: sky",
+   "Meaning": "Place of the standing cloud in the sky"
+ },
+ {
+   "Place name": "Ōtūmatua",
+   "Components": "o: place of; tū: stand; matua: parent",
+   "Meaning": "Where the elder stands"
+ },
+ {
+   "Place name": "Ōtūmoetai",
+   "Components": "ō: place of; tu: to stand; moe: to sleep; tai: tide",
+   "Meaning": "Place where the tide stands still as if asleep"
+ },
+ {
+   "Place name": "Ōtūpaopao",
+   "Components": "ō: place of; tū: to stand; paopao: to break by repeated strokes",
+   "Meaning": "Place of standing and breaking"
+ },
+ {
+   "Place name": "Ōtūraki",
+   "Components": "ō: place of; tū: to stand; raki (rangi): sky",
+   "Meaning": "Place of standing in the sky"
+ },
+ {
+   "Place name": "Ōtūrēhua",
+   "Components": "ō: place of; tū: to stand; Rēhua: the star Antares",
+   "Meaning": "Place where the summer star stands still"
+ },
+ {
+   "Place name": "Ōturoto",
+   "Components": "ō: place of; Turoto: a personal name",
+   "Meaning": "Place of Turoto"
+ },
+ {
+   "Place name": "Ōtūru",
+   "Components": "ō: place of; Turu: a personal name",
+   "Meaning": "Place of Turu"
+ },
+ {
+   "Place name": "Ōue",
+   "Components": "ō: place of; Ue: a personal name",
+   "Meaning": "Place of Ue"
+ },
+ {
+   "Place name": "Ōueroa",
+   "Components": "ō: place of; ue: species of flax; roa: long",
+   "Meaning": "Place of long flax"
+ },
+ {
+   "Place name": "Ōui",
+   "Components": "ō: place of; ui: to ask",
+   "Meaning": "Place of questioning"
+ },
+ {
+   "Place name": "Ōuruhia",
+   "Components": "ō: place of; uruhia: to be attacked",
+   "Meaning": "Place of being attacked"
+ },
+ {
+   "Place name": "Ōwahanga",
+   "Components": "ō: place of; wahanga: burden",
+   "Meaning": "Place of burden"
+ },
+ {
+   "Place name": "Ōwairaka",
+   "Components": "ō: place of; Wairaka, a chieftainess of repute",
+   "Meaning": "Place of Wairaka"
+ },
+ {
+   "Place name": "Ōwairaka",
+   "Components": "ō: place of; wai: stream; Raka: an ancestor",
+   "Meaning": "Place of the stream of Raka"
+ },
+ {
+   "Place name": "Ōwaka",
+   "Components": "ō: place of; waka: canoe or wooden trough",
+   "Meaning": "Place of a canoe"
+ },
+ {
+   "Place name": "Ōweka",
+   "Components": "ō: place of; weka: wood-hen",
+   "Meaning": "Place of the weka"
+ },
+ {
+   "Place name": "Ōwhango",
+   "Components": "ō: place of; whango: hoarse voice or wheezy sound",
+   "Meaning": "Place of wheezy noises"
+ },
+ {
+   "Place name": "Ōwhata",
+   "Components": "ō: place of; whata: elevated stage to protect food from bush rats, and for drying",
+   "Meaning": "Place of the elevated stage"
+ },
+ {
+   "Place name": "Ōwhawhe",
+   "Components": "ō: place of; whawhe: put round",
+   "Meaning": "The place encircled"
+ },
+ {
+   "Place name": "Ōwhiro",
+   "Components": "ō: place of; Whiro",
+   "Meaning": "Place of Whiro"
+ },
+ {
+   "Place name": "Paehinahina",
+   "Components": "pae: ridge, headland; hinahina: a small tree also knwn as mahoe",
+   "Meaning": "Hinahina ridge"
+ },
+ {
+   "Place name": "Paekākāriki",
+   "Components": "pae: perch or snare; kākāriki: parakeet (Cyanoramphus novaezelandiae)",
+   "Meaning": "Parakeet perch"
+ },
+ {
+   "Place name": "Paekoka",
+   "Components": "pae: ridge; koka: an unidentified species of seabird that was caught here",
+   "Meaning": "Seabird ridge"
+ },
+ {
+   "Place name": "Paeoterangi",
+   "Components": "pae: perching place; o: of; te: the; rangi: sky",
+   "Meaning": "Footstool of the sky"
+ },
+ {
+   "Place name": "Paerātā",
+   "Components": "pae: ridge; rātā: native tree",
+   "Meaning": "Ridge of the rātā tree"
+ },
+ {
+   "Place name": "Paerau",
+   "Components": "pae: ridges or steps; rau: many or a hundred",
+   "Meaning": "Many ridges"
+ },
+ {
+   "Place name": "Paeroa",
+   "Components": "pae: ridge of hills; roa: long",
+   "Meaning": "Long ridge of hills"
+ },
+ {
+   "Place name": "Paetiki",
+   "Components": "pae: ridge; tiki: carved wooden or stone figure",
+   "Meaning": "Ridge of carved figure"
+ },
+ {
+   "Place name": "Pakirārahi",
+   "Components": "pakirā: bald; rahi: big",
+   "Meaning": "Large bald dome"
+ },
+ {
+   "Place name": "Papahīnau",
+   "Components": "papa: flat; hīnau: native tree",
+   "Meaning": "Hīnau flats"
+ },
+ {
+   "Place name": "Papaiti",
+   "Components": "papa: flat; iti: small",
+   "Meaning": "Small flats"
+ },
+ {
+   "Place name": "Papakaio",
+   "Components": "papa: flat; kaio: native tree (South Island form of ngaio)",
+   "Meaning": "Kaio tree flats"
+ },
+ {
+   "Place name": "Papakura",
+   "Components": "papa: flat; kura: red",
+   "Meaning": "Red flats"
+ },
+ {
+   "Place name": "Papamoa",
+   "Components": "papa: flat; moa: raisted mounds for growing vegetables",
+   "Meaning": "Raised mounds for growing vegetables on the flats"
+ },
+ {
+   "Place name": "Papanui",
+   "Components": "papa: flat; nui: large",
+   "Meaning": "Large flat"
+ },
+ {
+   "Place name": "Paparangi",
+   "Components": "papa: flat; rangi: sky",
+   "Meaning": "Flat sky"
+ },
+ {
+   "Place name": "Paparātā",
+   "Components": "papa: flat; rātā: native tree",
+   "Meaning": "Rātā tree flats"
+ },
+ {
+   "Place name": "Paparimu",
+   "Components": "papa: flat; rimu: native tree",
+   "Meaning": "Rimu tree flats"
+ },
+ {
+   "Place name": "Paparoa",
+   "Components": "papa: flat; roa: long",
+   "Meaning": "Long flats"
+ },
+ {
+   "Place name": "Papatawa",
+   "Components": "papa: flat; tawa: native tree",
+   "Meaning": "Tawa tree flats"
+ },
+ {
+   "Place name": "Papatāwhara",
+   "Components": "papa: ground; tāwhara: kiekie flowers",
+   "Meaning": "Kiekie flower flats"
+ },
+ {
+   "Place name": "Papatoetoe",
+   "Components": "papa: flat; toetoe: native grass",
+   "Meaning": "Toetoe grass flat"
+ },
+ {
+   "Place name": "Papatōtara",
+   "Components": "papa: flat; tōtara: native tree",
+   "Meaning": "Tōtara flat"
+ },
+ {
+   "Place name": "Papatōwai",
+   "Components": "papa: flat; tōwai: native tree",
+   "Meaning": "Tōwai tree flat"
+ },
+ {
+   "Place name": "Papawai",
+   "Components": "papa: flat; wai: water",
+   "Meaning": "Inundated land"
+ },
+ {
+   "Place name": "Pāreranui",
+   "Components": "pārera: grey duck (Anas superciliosa): nui: large",
+   "Meaning": "Large grey duck"
+ },
+ {
+   "Place name": "Paretai",
+   "Components": "pare: divert; tai: the tide",
+   "Meaning": "River bank"
+ },
+ {
+   "Place name": "Paretetaitonga",
+   "Components": "para: dust; te: the; tai: sea; tonga: south",
+   "Meaning": "The dust from the south sea"
+ },
+ {
+   "Place name": "Pārewanui",
+   "Components": "pā: fortified village; rewa: swamp; nui: large",
+   "Meaning": "Fortified village in a large swamp"
+ },
+ {
+   "Place name": "Pari-nui-te-ra",
+   "Components": "pari: cliff; nui: great; te: the; rā: sun",
+   "Meaning": "Great cliff in the sun"
+ },
+ {
+   "Place name": "Pariparitetai",
+   "Components": "paripari: cliffs; te: the; tai: coast",
+   "Meaning": "Cliffs on the coast"
+ },
+ {
+   "Place name": "Pariroa",
+   "Components": "pari: cliff; roa: long",
+   "Meaning": "Long cliff"
+ },
+ {
+   "Place name": "Pāroa",
+   "Components": "pā: fortified village; roa: long, broad",
+   "Meaning": "Broad fortified village"
+ },
+ {
+   "Place name": "Paruroa",
+   "Components": "paru: mud; roa: long",
+   "Meaning": "Long mud"
+ },
+ {
+   "Place name": "Paturoa",
+   "Components": "patu: to strike or kill; roa: long",
+   "Meaning": "Much hitting"
+ },
+ {
+   "Place name": "Pāuanui",
+   "Components": "pāua: shellfish; nui: many or large",
+   "Meaning": "Many or large pāua"
+ },
+ {
+   "Place name": "Pikowai",
+   "Components": "piko: corner or bend; wai: stream",
+   "Meaning": "Bend in the stream"
+ },
+ {
+   "Place name": "Pipiroa",
+   "Components": "pipi: cockle; roa: long",
+   "Meaning": "Long pipi"
+ },
+ {
+   "Place name": "Pīroa",
+   "Components": "pī: headwaters; roa: long",
+   "Meaning": "Long headwaters"
+ },
+ {
+   "Place name": "Pōhatunui",
+   "Components": "pōhatu: rock; nui: great",
+   "Meaning": "Great rock"
+ },
+ {
+   "Place name": "Pōhaturoa",
+   "Components": "pōhatu: rock; roa: tall",
+   "Meaning": "Tall rock"
+ },
+ {
+   "Place name": "Pohonui",
+   "Components": "poho: stomach; nui: big",
+   "Meaning": "Big stomach"
+ },
+ {
+   "Place name": "Pōhuenui",
+   "Components": "pōhue: convolvulus or other climbing plants; nui: many",
+   "Meaning": "Large climbing plant"
+ },
+ {
+   "Place name": "Pongaroa",
+   "Components": "ponga: tree fern; roa: tall or long",
+   "Meaning": "Tall tree fern"
+ },
+ {
+   "Place name": "Pōnui",
+   "Components": "pō: night; nui: long",
+   "Meaning": "Long night"
+ },
+ {
+   "Place name": "Puatai",
+   "Components": "pua: foam; tai: sea",
+   "Meaning": "Foam of the sea"
+ },
+ {
+   "Place name": "Pukearuhe",
+   "Components": "puke: hill; aruhe: bitter",
+   "Meaning": "Hill of bitterness"
+ },
+ {
+   "Place name": "Puhinui",
+   "Components": "puhi: plume at the bow of a war canoe; nui: large",
+   "Meaning": "Large plume at bow of war canoe"
+ },
+ {
+   "Place name": "Pukeatua",
+   "Components": "puke: hill; atua: god",
+   "Meaning": "Hill of the deity"
+ },
+ {
+   "Place name": "Pukehinau",
+   "Components": "puke: hill; hinau: a native tree",
+   "Meaning": "Hīnau tree hill"
+ },
+ {
+   "Place name": "Puke-hiwi-tahi",
+   "Components": "puke: hill; hiwi: ridge; tahi: one",
+   "Meaning": "One-ridge hill"
+ },
+ {
+   "Place name": "Pukehuhu",
+   "Components": "puke: hill; huhu: grub",
+   "Meaning": "Huhu grub hill"
+ },
+ {
+   "Place name": "Pukehuia",
+   "Components": "puke: hill; huia: cluster",
+   "Meaning": "Cluster of hills"
+ },
+ {
+   "Place name": "Pukeiti",
+   "Components": "puke: hill; tī: cabbage tree",
+   "Meaning": "Cabbage tree hill"
+ },
+ {
+   "Place name": "Pukekāhu",
+   "Components": "puke: hill; kāhu: hawk",
+   "Meaning": "Hill of the hawk"
+ },
+ {
+   "Place name": "Pukekaikiore",
+   "Components": "puke: hill; kai: to eat; kiore: rat",
+   "Meaning": "Hill of the eaten rat"
+ },
+ {
+   "Place name": "Pukekākāriki",
+   "Components": "puke: hill; kākāriki: parakeet",
+   "Meaning": "Hill of the parakeet"
+ },
+ {
+   "Place name": "Pukekāpia",
+   "Components": "puke: hill; kāpia: kauri gum",
+   "Meaning": "Kauri gum hill"
+ },
+ {
+   "Place name": "Pukekoikoi",
+   "Components": "puke: hill; koikoi: pointed",
+   "Meaning": "Pointed hill"
+ },
+ {
+   "Place name": "Pukekōmā",
+   "Components": "puke: hill; kōmā: light-coloured or bright; or a kind of stone",
+   "Meaning": "Light-coloured hill"
+ },
+ {
+   "Place name": "Pukekōwhai",
+   "Components": "puke: hill; kōwhai: native tree",
+   "Meaning": "Kōwhai tree hill"
+ },
+ {
+   "Place name": "Pukekura",
+   "Components": "puke: hill; kura: red",
+   "Meaning": "Red hill"
+ },
+ {
+   "Place name": "Puke-māeroero",
+   "Components": "puke: hill; māeroero: ogres of the forest",
+   "Meaning": "Hill of ogres"
+ },
+ {
+   "Place name": "Pukemaori",
+   "Components": "puke: hill; māori: Māori",
+   "Meaning": "Māori hill"
+ },
+ {
+   "Place name": "Pukemarama",
+   "Components": "puke: hill; marama: moon",
+   "Meaning": "Moon hill"
+ },
+ {
+   "Place name": "Pukemātāwai",
+   "Components": "puke: hill: mātāwai: source of streams",
+   "Meaning": "Hill is source of stream"
+ },
+ {
+   "Place name": "Pukematekeo",
+   "Components": "puke: hill; mate: end; keo: peak",
+   "Meaning": "The hill at the end of the range"
+ },
+ {
+   "Place name": "Pukemiro",
+   "Components": "puke: hill; miro: native tree",
+   "Meaning": "Miro tree hill"
+ },
+ {
+   "Place name": "Pukemoko",
+   "Components": "puke: hill; moko: tattoo",
+   "Meaning": "Hill of tattoos"
+ },
+ {
+   "Place name": "Pukemoremore",
+   "Components": "puke: hill; more; a freshwater fish",
+   "Meaning": "Hill of many pinbellied freshwater fish"
+ },
+ {
+   "Place name": "Pukengahu",
+   "Components": "puke: hill; ngahu: point or promontory",
+   "Meaning": "Hill"
+ },
+ {
+   "Place name": "Pukenui",
+   "Components": "puke: hill; nui: large",
+   "Meaning": "Large hill"
+ },
+ {
+   "Place name": "Pukeokahu",
+   "Components": "puke: hill; o: of; Kahu: personal name",
+   "Meaning": "Hill of Kahu"
+ },
+ {
+   "Place name": "Puke-o-Tara",
+   "Components": "puke: hill; o: of; Tara",
+   "Meaning": "Hill of Tara"
+ },
+ {
+   "Place name": "Pukepiripiri",
+   "Components": "puke: hill; piripiri: the ‘biddy-bid’ (Acaena anserinifolia)",
+   "Meaning": "‘Biddy-bid’ hill"
+ },
+ {
+   "Place name": "Pukepito",
+   "Components": "puke: hill; pito: end",
+   "Meaning": "Hill end"
+ },
+ {
+   "Place name": "Pukepōhatu",
+   "Components": "puke: hill; pōhatu: rock",
+   "Meaning": "Rock hill"
+ },
+ {
+   "Place name": "Pukepoto",
+   "Components": "puke: hill; poto: dark blue earth present in a nearby swamp, used as a pigment",
+   "Meaning": "Dark blue pigment hill"
+ },
+ {
+   "Place name": "Pukerangi",
+   "Components": "puke: hill; rangi: sky",
+   "Meaning": "Sky hill"
+ },
+ {
+   "Place name": "Pukerangiora",
+   "Components": "puke: hill; rangiora: native shrub",
+   "Meaning": "Rangiora shrub hill"
+ },
+ {
+   "Place name": "Pukerau",
+   "Components": "puke: hills; rau: a leaf, a hundred or many",
+   "Meaning": "Hill of leaves"
+ },
+ {
+   "Place name": "Pukerauaruhe",
+   "Components": "puke: hill; rauaruhe: bracken fronds",
+   "Meaning": "Hill of bracken fronds"
+ },
+ {
+   "Place name": "Pukerimu",
+   "Components": "puke: hill; rimu: native tree",
+   "Meaning": "Rimu tree hill"
+ },
+ {
+   "Place name": "Pukeora",
+   "Components": "puke: hill; ora: well or in good health",
+   "Meaning": "Hill of good health"
+ },
+ {
+   "Place name": "Pukeroa",
+   "Components": "puke: hill; roa: long or tall",
+   "Meaning": "Tall hill"
+ },
+ {
+   "Place name": "Pukerua",
+   "Components": "puke: hill; rua: two",
+   "Meaning": "Two hills"
+ },
+ {
+   "Place name": "Puketaha",
+   "Components": "puke: hill; taha: side",
+   "Meaning": "Hill side"
+ },
+ {
+   "Place name": "Puketāpapa",
+   "Components": "puke: hill; tāpapa: edge or flat-topped",
+   "Meaning": "Flat-topped hill"
+ },
+ {
+   "Place name": "Puketapu",
+   "Components": "puke: hill; tapu: sacred or forbidden",
+   "Meaning": "Sacred hill"
+ },
+ {
+   "Place name": "Puketawa",
+   "Components": "puke: hill; tawa: native tree",
+   "Meaning": "Tawa tree hill"
+ },
+ {
+   "Place name": "Puketī",
+   "Components": "puke: hill; tī: cabbage tree",
+   "Meaning": "Cabbage tree hill"
+ },
+ {
+   "Place name": "Puketihi",
+   "Components": "puke: hill; tihi: top or summit",
+   "Meaning": "Summit of the hill"
+ },
+ {
+   "Place name": "Puketiro",
+   "Components": "puke: hill; tiro: view",
+   "Meaning": "View from the hill"
+ },
+ {
+   "Place name": "Puke-tirohia-marama",
+   "Components": "puke: hill; tirohia: to survey or view; marama: moon",
+   "Meaning": "Hill giving a view of the moon"
+ },
+ {
+   "Place name": "Puketoi",
+   "Components": "puke: hill; toi: summit",
+   "Meaning": "Summit of the hill"
+ },
+ {
+   "Place name": "Puketōtara",
+   "Components": "puke: hill; tōtara tree",
+   "Meaning": "Tōtara hill"
+ },
+ {
+   "Place name": "Puketūī",
+   "Components": "puke: hill; tūī: native bird",
+   "Meaning": "Tūī hill"
+ },
+ {
+   "Place name": "Puketūroto",
+   "Components": "puke: hill; tū: to stand; roto: lake",
+   "Meaning": "Hillside beside the lake"
+ },
+ {
+   "Place name": "Puketutu",
+   "Components": "puke: hill; tutu: native shrub (Coriaria arborea)",
+   "Meaning": "Tutu shrub hill"
+ },
+ {
+   "Place name": "Pukewhau",
+   "Components": "puke: hill; whau: a native tree",
+   "Meaning": "Whau tree hill"
+ },
+ {
+   "Place name": "Pukewhero",
+   "Components": "puke: hill; whero: red",
+   "Meaning": "Red hill"
+ },
+ {
+   "Place name": "Pukurahi",
+   "Components": "puku: belly; rahi: large",
+   "Meaning": "Large belly"
+ },
+ {
+   "Place name": "Rāhotu",
+   "Components": "rā: sun; hotu: to long for",
+   "Meaning": "Long for the sun"
+ },
+ {
+   "Place name": "Rākaunui",
+   "Components": "rākau: tree; nui: many or large",
+   "Meaning": "Many trees"
+ },
+ {
+   "Place name": "Rākauroa",
+   "Components": "rākau: tree; roa: tall",
+   "Meaning": "Tall trees"
+ },
+ {
+   "Place name": "Ramaroa",
+   "Components": "rama: torch; roa: long",
+   "Meaning": "Long torch"
+ },
+ {
+   "Place name": "Ranganui",
+   "Components": "ranga: parade; nui: large",
+   "Meaning": "Large parade"
+ },
+ {
+   "Place name": "Rangi-roa",
+   "Components": "rangi: sky; roa: long",
+   "Meaning": "Long sky"
+ },
+ {
+   "Place name": "Rānui",
+   "Components": "rā: sun; nui: many",
+   "Meaning": "Plenty of sunshine"
+ },
+ {
+   "Place name": "Rapanui",
+   "Components": "rapa: there are many meanings of rapa, including to seek; nui: many",
+   "Meaning": "Much seeking"
+ },
+ {
+   "Place name": "Rārangi-roa",
+   "Components": "rārangi: line or row; roa: long",
+   "Meaning": "Long line"
+ },
+ {
+   "Place name": "Rāroa",
+   "Components": "rā; day; roa: long",
+   "Meaning": "Long day"
+ },
+ {
+   "Place name": "Rātānui",
+   "Components": "rātā: native tree; nui: large or many",
+   "Meaning": "Many or large rātā trees"
+ },
+ {
+   "Place name": "Rāwhitiroa",
+   "Components": "rā: sun; whiti: to shine; roa: long",
+   "Meaning": "Long-shining sun"
+ },
+ {
+   "Place name": "Reporoa",
+   "Components": "repo: swamp; roa: long or wide",
+   "Meaning": "Long swamp"
+ },
+ {
+   "Place name": "Rimunui",
+   "Components": "rimu: native tree; nui: many or large",
+   "Meaning": "Many or large rimu trees"
+ },
+ {
+   "Place name": "Rongotai",
+   "Components": "rongo: sound; tai: sea",
+   "Meaning": "Sound of the sea"
+ },
+ {
+   "Place name": "Rotoaira",
+   "Components": "roto: lake; a: of; Ira",
+   "Meaning": "Lake of Ira"
+ },
+ {
+   "Place name": "Roto-a-Tara",
+   "Components": "roto: lake; a: of; Tara",
+   "Meaning": "Lake of Tara"
+ },
+ {
+   "Place name": "Rotoehu",
+   "Components": "roto: lake; ehu: turbid",
+   "Meaning": "Turbid lake"
+ },
+ {
+   "Place name": "Rotoiti",
+   "Components": "roto: lake; iti: small",
+   "Meaning": "Little lake"
+ },
+ {
+   "Place name": "Rotokākahi",
+   "Components": "roto: lake; kākahi: freshwater shellfish",
+   "Meaning": "Freshwater shellfish lake"
+ },
+ {
+   "Place name": "Rotokauri",
+   "Components": "roto: lake; kauri: native tree",
+   "Meaning": "Kauri tree lake"
+ },
+ {
+   "Place name": "Rotokawa",
+   "Components": "roto: lake; kawa; bitter",
+   "Meaning": "Bitter lake"
+ },
+ {
+   "Place name": "Rotokawau",
+   "Components": "roto: lake; kawau: shag",
+   "Meaning": "Shag lake"
+ },
+ {
+   "Place name": "Rotokohu",
+   "Components": "roto: lake; kohu: mist",
+   "Meaning": "Misty lake"
+ },
+ {
+   "Place name": "Rotokura",
+   "Components": "roto: lake; kura: red",
+   "Meaning": "Red glow of sunset on the water"
+ },
+ {
+   "Place name": "Rotoma",
+   "Components": "roto: lake; ma: clear",
+   "Meaning": "Clear lake"
+ },
+ {
+   "Place name": "Rotomahana",
+   "Components": "roto: lake; mahana: warm",
+   "Meaning": "Warm lake"
+ },
+ {
+   "Place name": "Rotomanu",
+   "Components": "roto: lake; manu: bird",
+   "Meaning": "Bird lake"
+ },
+ {
+   "Place name": "Rotongaro",
+   "Components": "roto: lake; ngaro: hidden or lost",
+   "Meaning": "Hidden lake"
+ },
+ {
+   "Place name": "Roto-o-rangi",
+   "Components": "roto: lake; o: of; rangi: sky",
+   "Meaning": "Lake of the sky"
+ },
+ {
+   "Place name": "Rotoroa",
+   "Components": "roto: lake; roa: long",
+   "Meaning": "Long lake"
+ },
+ {
+   "Place name": "Rotorua",
+   "Components": "roto: lake; rua: two",
+   "Meaning": "Two lakes"
+ },
+ {
+   "Place name": "Rototuna",
+   "Components": "roto: lake; tuna: eel",
+   "Meaning": "Eel lake"
+ },
+ {
+   "Place name": "Rotowaro",
+   "Components": "roto: lake; waro: coal or glowing embers",
+   "Meaning": "Lake of glowing embers"
+ },
+ {
+   "Place name": "Ruapuke Island",
+   "Components": "rua: two; puke: hills",
+   "Meaning": "Two hill island"
+ },
+ {
+   "Place name": "Ruaroa",
+   "Components": "rua: cave or pit; roa: long",
+   "Meaning": "Long pit"
+ },
+ {
+   "Place name": "Ruawai",
+   "Components": "rua: hole; wai: water",
+   "Meaning": "Watery hole"
+ },
+ {
+   "Place name": "Rukumoana",
+   "Components": "ruku: to dive; moana: sea, or deep pool in river",
+   "Meaning": "Diving into the pool"
+ },
+ {
+   "Place name": "Tāhaenui",
+   "Components": "tāhae: thief; nui: big or many",
+   "Meaning": "Many thieves"
+ },
+ {
+   "Place name": "Tahāroa",
+   "Components": "tahā: calabash, gourd; roa: long",
+   "Meaning": "Long calabash"
+ },
+ {
+   "Place name": "Tahawai",
+   "Components": "taha: side; wai: water",
+   "Meaning": "Seaside"
+ },
+ {
+   "Place name": "Tāhekereroa",
+   "Components": "tāheke: waterfall; roa: high or long",
+   "Meaning": "High waterfall"
+ },
+ {
+   "Place name": "Tahoraiti",
+   "Components": "tahora: forest clearing; iti: little",
+   "Meaning": "Little forest clearing"
+ },
+ {
+   "Place name": "Tāhuhūnui",
+   "Components": "tāhūhū: ridge-pole; nui: large",
+   "Meaning": "Large ridge-pole"
+ },
+ {
+   "Place name": "Tāhunanui",
+   "Components": "tāhuna: shoal or sandbank; nui: large",
+   "Meaning": "Large sandbank"
+ },
+ {
+   "Place name": "Taiharuru",
+   "Components": "tai: sea; haruru: resounding",
+   "Meaning": "Resounding sea"
+ },
+ {
+   "Place name": "Taikorea",
+   "Components": "tai: sea; korea: a small canoe",
+   "Meaning": "Tide of the small canoe"
+ },
+ {
+   "Place name": "Taimate",
+   "Components": "tai: tide; mate: dead",
+   "Meaning": "A salt pool blocked off from the tide"
+ },
+ {
+   "Place name": "Tainui",
+   "Components": "tai: tide; nui: great",
+   "Meaning": "Great tide"
+ },
+ {
+   "Place name": "Tairua",
+   "Components": "tai: tides; rua: two",
+   "Meaning": "Two tides"
+ },
+ {
+   "Place name": "Taitapu",
+   "Components": "tai: coast; tapu: sacred",
+   "Meaning": "Sacred coast"
+ },
+ {
+   "Place name": "Taitimu",
+   "Components": "tai: tide; timu: to ebb",
+   "Meaning": "Ebb of the tide"
+ },
+ {
+   "Place name": "Taitomo",
+   "Components": "tai: sea; tomo: shaft",
+   "Meaning": "Shaft of the sea"
+ },
+ {
+   "Place name": "Takahiwai",
+   "Components": "takahi: to trample; wai: water",
+   "Meaning": "Trample water"
+ },
+ {
+   "Place name": "Takutai",
+   "Components": "taku: coast; tai: sea",
+   "Meaning": "Sea coast"
+ },
+ {
+   "Place name": "Tangimoana",
+   "Components": "tangi: to weep or lament; moana: ocean",
+   "Meaning": "Weeping sea"
+ },
+ {
+   "Place name": "Tangiwai",
+   "Components": "tangi: to cry or weep; wai: water",
+   "Meaning": "Weeping water"
+ },
+ {
+   "Place name": "Taonui",
+   "Components": "tao: spear; nui: many",
+   "Meaning": "Large spear"
+ },
+ {
+   "Place name": "Taoroa",
+   "Components": "tao: spear; roa: long",
+   "Meaning": "Long spear"
+ },
+ {
+   "Place name": "Tapuwaeroa",
+   "Components": "tapuwae: footsteps; roa: long",
+   "Meaning": "Long footsteps"
+ },
+ {
+   "Place name": "Tātuanui",
+   "Components": "tātua: girdle; nui: large or many",
+   "Meaning": "Large girdle"
+ },
+ {
+   "Place name": "Taumarunui",
+   "Components": "taumaru: screen; nui: large",
+   "Meaning": "Large screen"
+ },
+ {
+   "Place name": "Taumatawhakatangihanga\n kōauauotamatea\n pōkaiwhenuakitanatahu",
+   "Components": "taumata: brow of a hill; whakatangihanga: place of sounding or playing; kōauau: flute; o: of; Tamatea-pōkai-whenua; ki: to; tana: his; tahu: lover",
+   "Meaning": "The brow of the hill where Tamatea who travelled all over the land played his flute to his lover"
+ },
+ {
+   "Place name": "Taumoana",
+   "Components": "tau: to come to rest (and many other meanings); moana: sea",
+   "Meaning": "Come to rest at sea"
+ },
+ {
+   "Place name": "Tauranganui",
+   "Components": "taura: landing places; nui: many, great",
+   "Meaning": "Great landing place"
+ },
+ {
+   "Place name": "Tauraroa",
+   "Components": "taura: rope; roa: long",
+   "Meaning": "Long rope"
+ },
+ {
+   "Place name": "Tawanui",
+   "Components": "tawa: native tree (Beilschmiedia tawa); nui: many",
+   "Meaning": "Great tawa tree"
+ },
+ {
+   "Place name": "Tāwharanui",
+   "Components": "tāwhara: flower of the kiekie (Freycinetia banksii); nui: many",
+   "Meaning": "Many flowers of the kiekie"
+ },
+ {
+   "Place name": "Te Araroa",
+   "Components": "te: the; ara: path; roa: long",
+   "Meaning": "The long path"
+ },
+ {
+   "Place name": "Te Awa",
+   "Components": "te: the; awa: valley or channel",
+   "Meaning": "The valley"
+ },
+ {
+   "Place name": "Te Awahou",
+   "Components": "te: the; awa: river; hou: new",
+   "Meaning": "The new river"
+ },
+ {
+   "Place name": "Te Awaiti",
+   "Components": "te: the; awa: stream; iti: little",
+   "Meaning": "The little stream"
+ },
+ {
+   "Place name": "Te Awa-māeroero",
+   "Components": "te: the; awa: river; māeroero: ogres of the South Island forests",
+   "Meaning": "The river of the ogres"
+ },
+ {
+   "Place name": "Te Awamutu",
+   "Components": "te: the; awa: river; mutu: cut off or ended",
+   "Meaning": "The ended river"
+ },
+ {
+   "Place name": "Te Awa-parahi",
+   "Components": "te: the; awa: valley; parahi: steep",
+   "Meaning": "The steep valley"
+ },
+ {
+   "Place name": "Te Awaure",
+   "Components": "te: the; awa: river; ure: male",
+   "Meaning": "The male river"
+ },
+ {
+   "Place name": "Te Haehaenga",
+   "Components": "te: the; haehaenga: torn or lacerated",
+   "Meaning": "The laceration"
+ },
+ {
+   "Place name": "Te Hana",
+   "Components": "te: the; hana: glow or gleam",
+   "Meaning": "The glow"
+ },
+ {
+   "Place name": "Te Hāpara",
+   "Components": "te: the; hāpara: dawn",
+   "Meaning": "The dawn"
+ },
+ {
+   "Place name": "Te Hāparangi",
+   "Components": "te: the; hāparangi",
+   "Meaning": "The circumstance of shouting"
+ },
+ {
+   "Place name": "Te Hāpua",
+   "Components": "te: the; hāpua: lagoon",
+   "Meaning": "The lagoon"
+ },
+ {
+   "Place name": "Te Hāroto",
+   "Components": "te: the; hāroto: pool",
+   "Meaning": "The pool"
+ },
+ {
+   "Place name": "Te Henga",
+   "Components": "te: the; henga: food for a work party",
+   "Meaning": "The food for a work party"
+ },
+ {
+   "Place name": "Te Hēnui",
+   "Components": "te: the; hē: amongst its several meanings are wrong, erring, error, difficulty, trouble; nui: big",
+   "Meaning": "The great mistake"
+ },
+ {
+   "Place name": "Te Ika-a-Māui",
+   "Components": "te: the; ika: fish; a: of; Māui: a personal name",
+   "Meaning": "The fish of Māui"
+ },
+ {
+   "Place name": "Te Ika-a-Ranganui",
+   "Components": "te: the; ika: fish; a: of; Ranganui: a personal name",
+   "Meaning": "The fish of Ranganui"
+ },
+ {
+   "Place name": "Te Horo",
+   "Components": "te: the; horo: landslide",
+   "Meaning": "The landslide"
+ },
+ {
+   "Place name": "Te Kaha",
+   "Components": "te: the; kaha: rope",
+   "Meaning": "The rope"
+ },
+ {
+   "Place name": "Te Kao",
+   "Components": "te: the; kao: dried kūmara",
+   "Meaning": "The dried kūmara"
+ },
+ {
+   "Place name": "Te Kauwhata",
+   "Components": "te: the; kau: empty; whata: storehouse",
+   "Meaning": "The empty storehouse"
+ },
+ {
+   "Place name": "Te Kawakawa",
+   "Components": "te: the; kawakawa: a native shrub",
+   "Meaning": "The kawakawa shrub"
+ },
+ {
+   "Place name": "Te Kōpua",
+   "Components": "te: the; kōpua: deep pool",
+   "Meaning": "The deep pool"
+ },
+ {
+   "Place name": "Te Kiri",
+   "Components": "te: the; kiri: bark",
+   "Meaning": "The bark"
+ },
+ {
+   "Place name": "Te Kōhanga",
+   "Components": "te: the; kōhanga: nest",
+   "Meaning": "The nest"
+ },
+ {
+   "Place name": "Te Kōwhai",
+   "Components": "te: the; kōwhai: a tree",
+   "Meaning": "The kōwhai tree"
+ },
+ {
+   "Place name": "Te Mānia",
+   "Components": "te: the; mānia: plain",
+   "Meaning": "The plain"
+ },
+ {
+   "Place name": "Te Moana",
+   "Components": "te: the; moana: ocean",
+   "Meaning": "The sea"
+ },
+ {
+   "Place name": "Te Moana o Toi te Huatahi",
+   "Components": "te: the; moana: ocean; o: of; Toi te Huatahi",
+   "Meaning": "The ocean of Toi te Huatahi"
+ },
+ {
+   "Place name": "Te Moananui",
+   "Components": "te: the; moana: ocean; nui: large",
+   "Meaning": "The great ocean"
+ },
+ {
+   "Place name": "Te Moananui-a-Kiwa",
+   "Components": "te: the; moana: ocean; nui: large; a: of; Kiwa",
+   "Meaning": "The great ocean of Kiwa"
+ },
+ {
+   "Place name": "Te Onepū",
+   "Components": "te: the; onepū: sand",
+   "Meaning": "The sand"
+ },
+ {
+   "Place name": "Te Onewa",
+   "Components": "te: the; one: earth, soil or land; wa: unenclosed country",
+   "Meaning": "Soil of the unenclosed land"
+ },
+ {
+   "Place name": "Te Papatapu",
+   "Components": "te: the; papa: flat; tapu: sacred or forbidden",
+   "Meaning": "The sacred flat"
+ },
+ {
+   "Place name": "Te Puke",
+   "Components": "te: the; puke: hill",
+   "Meaning": "The hill"
+ },
+ {
+   "Place name": "Te Tai Tamāhine",
+   "Components": "te: the; tai: sea, coast; tamāhine: daughter, girl",
+   "Meaning": "The female coast"
+ },
+ {
+   "Place name": "Te Tai Tamatāne",
+   "Components": "te: the; tai: sea, coast; tamatāne: son, body",
+   "Meaning": "The male coast"
+ },
+ {
+   "Place name": "Te Tai o Marokura",
+   "Components": "te: the; tai: sea, coast; o: of; Marokura",
+   "Meaning": "The coast of Marokura"
+ },
+ {
+   "Place name": "Te Tai o Mahaanui",
+   "Components": "te: the; tai: sea, coast; o: of; Mahaanui",
+   "Meaning": "The coast of Mahaanui"
+ },
+ {
+   "Place name": "Te Tai o Aorere",
+   "Components": "te: the; tai: sea, coast; o: of; Aorere",
+   "Meaning": "The coast of Aorere"
+ },
+ {
+   "Place name": "Te Tai Poutini",
+   "Components": "te: the; tai: sea, coast; Poutini",
+   "Meaning": "The coast of Poutini"
+ },
+ {
+   "Place name": "Te Tukeroa",
+   "Components": "te: the ; tuke: elbow or bend; roa: tall",
+   "Meaning": "The long bend"
+ },
+ {
+   "Place name": "Te Waharoa",
+   "Components": "te: the; waha: to carry on the back; roa: long",
+   "Meaning": "The long carry"
+ },
+ {
+   "Place name": "Te Wai Pounamu",
+   "Components": "te; the; wai: water; pounamu: greenstone",
+   "Meaning": "The greenstone waters"
+ },
+ {
+   "Place name": "Te Waiiti",
+   "Components": "te: the; wai: stream; iti: small",
+   "Meaning": "The little stream"
+ },
+ {
+   "Place name": "Te Waiopani",
+   "Components": "te: the wai: water; o: of; Pani",
+   "Meaning": "The water of Pani"
+ },
+ {
+   "Place name": "Te Wairoa",
+   "Components": "te: the; wai: river or stream; roa: long",
+   "Meaning": "The long stream"
+ },
+ {
+   "Place name": "Te Waitere",
+   "Components": "te: the; wai: water; tere: swiftly flowing",
+   "Meaning": "The swift stream"
+ },
+ {
+   "Place name": "Te Wēiti",
+   "Components": "te: the; wē: water; iti: little",
+   "Meaning": "The little water"
+ },
+ {
+   "Place name": "Te Whare-kai-atua",
+   "Components": "te: the; whare: house; kai: eat; atua: gods",
+   "Meaning": "The abode that consumes deities"
+ },
+ {
+   "Place name": "Tīkapa Moana",
+   "Components": "tīkapa: mournful; moana: sea",
+   "Meaning": "The mournful sea"
+ },
+ {
+   "Place name": "Tikinui",
+   "Components": "tiki: human representation in wood or stone; nui: large or many",
+   "Meaning": "The great human carving"
+ },
+ {
+   "Place name": "Tinui",
+   "Components": "ti: cabbage tree; nui: large or many",
+   "Meaning": "Many cabbage trees"
+ },
+ {
+   "Place name": "Tiroa",
+   "Components": "ti: cabbage tree; roa: tall",
+   "Meaning": "Long cabbage tree"
+ },
+ {
+   "Place name": "Tiromoana",
+   "Components": "tiro: view; moana: ocean",
+   "Meaning": "View the sea"
+ },
+ {
+   "Place name": "Tironui",
+   "Components": "tiro: view; nui: large or expansive",
+   "Meaning": "Expansive view"
+ },
+ {
+   "Place name": "Tiroroa",
+   "Components": "tiro: view; roa: long",
+   "Meaning": "Long view"
+ },
+ {
+   "Place name": "Titiroa",
+   "Components": "titi: long streaks of cloud; roa: long",
+   "Meaning": "Long streaks of cloud"
+ },
+ {
+   "Place name": "Tokanui",
+   "Components": "toka: rock; nui: large or many",
+   "Meaning": "Large rock"
+ },
+ {
+   "Place name": "Tokarahi",
+   "Components": "toka: rock; rahi: large or many",
+   "Meaning": "Many rocks"
+ },
+ {
+   "Place name": "Tokaroa",
+   "Components": "toka: rock; roa: tall or long",
+   "Meaning": "Tall rock"
+ },
+ {
+   "Place name": "Tokoiti",
+   "Components": "toko: pole; iti: small",
+   "Meaning": "Little pole"
+ },
+ {
+   "Place name": "Tokoroa",
+   "Components": "toko: pole: roa: long",
+   "Meaning": "Long pole"
+ },
+ {
+   "Place name": "Tōmoana",
+   "Components": "tō: to drag or as far up as; moana: ocean",
+   "Meaning": "Drag to the ocean"
+ },
+ {
+   "Place name": "Tōtaranui",
+   "Components": "tōtara: trees; nui: many",
+   "Meaning": "Many tōtara trees"
+ },
+ {
+   "Place name": "Tunanui",
+   "Components": "tuna: eels; nui: many",
+   "Meaning": "Many eels"
+ },
+ {
+   "Place name": "Tūranganui",
+   "Components": "tūranga: standing; nui: great",
+   "Meaning": "Great standing place"
+ },
+ {
+   "Place name": "Tūrangaomoana",
+   "Components": "tūranga: standing place; o: of; moana: the sea",
+   "Meaning": "Resting place of the sea"
+ },
+ {
+   "Place name": "Tūtaenui",
+   "Components": "tūtae: dung; nui: large",
+   "Meaning": "Large dung"
+ },
+ {
+   "Place name": "Umutaoroa",
+   "Components": "umu: oven; taoroa: long spear",
+   "Meaning": "Oven of the long spear"
+ },
+ {
+   "Place name": "Urenui",
+   "Components": "ure: courage (a figurative expression); nui: great",
+   "Meaning": "Great courage"
+ },
+ {
+   "Place name": "Utuwai",
+   "Components": "utu: dip into, in order to fill a bowl; wai: water",
+   "Meaning": "Dip into water"
+ },
+ {
+   "Place name": "Waianiwaniwa",
+   "Components": "wai: water; aniwaniwa: rainbow",
+   "Meaning": "Rainbow waters"
+ },
+ {
+   "Place name": "Waiapu",
+   "Components": "wai: water; apu: to swallow",
+   "Meaning": "Swallowing river"
+ },
+ {
+   "Place name": "Waiareka",
+   "Components": "wai: water; a: of; reka: sweet or sweetness",
+   "Meaning": "Sweet water"
+ },
+ {
+   "Place name": "Waiariari",
+   "Components": "wai: water; ariari: gleaming or undisturbed",
+   "Meaning": "Gleaming water"
+ },
+ {
+   "Place name": "Waiariki",
+   "Components": "wai: water; ariki: chief",
+   "Meaning": "Waters of the chief"
+ },
+ {
+   "Place name": "Waiaro",
+   "Components": "wai: water; aro: wistful",
+   "Meaning": "Wistful water"
+ },
+ {
+   "Place name": "Waiatoto",
+   "Components": "wai: water; a: of; toto: blood",
+   "Meaning": "Water of blood"
+ },
+ {
+   "Place name": "Waiau",
+   "Components": "wai: water; au: current",
+   "Meaning": "Swirling waters"
+ },
+ {
+   "Place name": "Waiaua",
+   "Components": "wai: water; aua: herring",
+   "Meaning": "Waters containing herring"
+ },
+ {
+   "Place name": "Waihaha",
+   "Components": "wai: water; haha: noisy",
+   "Meaning": "Noisy water"
+ },
+ {
+   "Place name": "Waihakeke",
+   "Components": "wai: water; hakeke: wood ear fungus",
+   "Meaning": "Wood ear fungus water"
+ },
+ {
+   "Place name": "Waihao",
+   "Components": "wai: water; hao: to catch in a net",
+   "Meaning": "Water of net fishing"
+ },
+ {
+   "Place name": "Waihao",
+   "Components": "wai: river: hao: a species of small eel",
+   "Meaning": "Water with eels"
+ },
+ {
+   "Place name": "Waihaorunga",
+   "Components": "wai: river: hao: a species of small eel; runga: top or upper part",
+   "Meaning": "Water with eels at the top"
+ },
+ {
+   "Place name": "Waiharakeke",
+   "Components": "wai: stream; harakeke: flax",
+   "Meaning": "Flax stream"
+ },
+ {
+   "Place name": "Waiharuru",
+   "Components": "wai: water; haruru: to reverberate or rumble",
+   "Meaning": "Rumbling waters"
+ },
+ {
+   "Place name": "Waihau",
+   "Components": "wai: water; hau: wind",
+   "Meaning": "Windy water"
+ },
+ {
+   "Place name": "Waiheke",
+   "Components": "wai: water; heke: to ebb, drip or descend",
+   "Meaning": "The descending waters"
+ },
+ {
+   "Place name": "Waihemo",
+   "Components": "wai: water or stream; hemo: to cease",
+   "Meaning": "The finished stream"
+ },
+ {
+   "Place name": "Waihīnau",
+   "Components": "wai: stream; hīnau: a native tree",
+   "Meaning": "Hīnau tree stream"
+ },
+ {
+   "Place name": "Waihīrere",
+   "Components": "wai: water; hīrere: to rush",
+   "Meaning": "Rushing waters"
+ },
+ {
+   "Place name": "Waihōaka",
+   "Components": "wai: stream; hōaka (South Island form of hōanga): sandstone, used for grinding and polishing greenstone",
+   "Meaning": "Water of sandstone"
+ },
+ {
+   "Place name": "Waihōhepa",
+   "Components": "wai: stream, water; Hohepa: the Maori form of Joseph",
+   "Meaning": "The water of Hōhepa"
+ },
+ {
+   "Place name": "Waihōhonu",
+   "Components": "wai: river; hōhonu: deep",
+   "Meaning": "Deep water"
+ },
+ {
+   "Place name": "Waihopo",
+   "Components": "wai: river; hopo: to be apprehensive or doubtful",
+   "Meaning": "A river one fears to cross"
+ },
+ {
+   "Place name": "Waihora",
+   "Components": "wai: water; hora: spread out",
+   "Meaning": "Spread-out waters"
+ },
+ {
+   "Place name": "Waihōu",
+   "Components": "wai: river; hōu: new",
+   "Meaning": "New waters"
+ },
+ {
+   "Place name": "Waihua",
+   "Components": "wai: water; hua: fish roe",
+   "Meaning": "Fish roe waters"
+ },
+ {
+   "Place name": "Waihue",
+   "Components": "wai: river; hue: gourd",
+   "Meaning": "River gourd waters"
+ },
+ {
+   "Place name": "Wai-iti",
+   "Components": "wai: stream; iti: little",
+   "Meaning": "Little stream"
+ },
+ {
+   "Place name": "Waikākā",
+   "Components": "wai: water; kākā: parrot",
+   "Meaning": "Parrot stream"
+ },
+ {
+   "Place name": "Waikākāhi",
+   "Components": "wai: water; kākahi: freshwater shellfish",
+   "Meaning": "Waters of freshwater shellfish"
+ },
+ {
+   "Place name": "Waikākaho",
+   "Components": "wai: water; kākaho: flowering plumes of the toetoe",
+   "Meaning": "Waters of the flowering plumes of the toetoe"
+ },
+ {
+   "Place name": "Waikanae",
+   "Components": "wai: water; kanae: mullet",
+   "Meaning": "Mullet waters"
+ },
+ {
+   "Place name": "Waikaraka",
+   "Components": "wai: stream; karaka: native tree",
+   "Meaning": "Karaka tree stream"
+ },
+ {
+   "Place name": "Waikarakia",
+   "Components": "wai: stream; karakia: prayer or incantation",
+   "Meaning": "Stream of ritual"
+ },
+ {
+   "Place name": "Waikare",
+   "Components": "wai: water; kare: to ripple",
+   "Meaning": "Rippling waters"
+ },
+ {
+   "Place name": "Waikareiti",
+   "Components": "wai: water; kare: to ripple or dash; iti: little",
+   "Meaning": "Little waters"
+ },
+ {
+   "Place name": "Waikaremoana",
+   "Components": "wai: water; kare: to ripple; moana: sea or large lake",
+   "Meaning": "Sea of rippling waters"
+ },
+ {
+   "Place name": "Waikāretu",
+   "Components": "wai: water; kāretu: a sweet-scented grass",
+   "Meaning": "Waters of the kāretu grass"
+ },
+ {
+   "Place name": "Waikari",
+   "Components": "wai: water; kari: dig",
+   "Meaning": "Dig for water"
+ },
+ {
+   "Place name": "Waikato",
+   "Components": "wai: river; kato: to flow",
+   "Meaning": "Flowing water"
+ },
+ {
+   "Place name": "Waikawa",
+   "Components": "wai: water; kawa: bitter",
+   "Meaning": "Bitter water"
+ },
+ {
+   "Place name": "Waikawau",
+   "Components": "wai: water; kawau: shag",
+   "Meaning": "Water of the shag"
+ },
+ {
+   "Place name": "Waikererū",
+   "Components": "wai: water; kererū: wood pigeon",
+   "Meaning": "Water of the wood pigeon"
+ },
+ {
+   "Place name": "Waikeria",
+   "Components": "wai: water; keria: dug out",
+   "Meaning": "Dug out water"
+ },
+ {
+   "Place name": "Waikerikeri",
+   "Components": "wai: water; kerikeri: to rush along violently",
+   "Meaning": "Water that rushes along"
+ },
+ {
+   "Place name": "Waikiekie",
+   "Components": "wai: water; kiekie: a climbing plant",
+   "Meaning": "Kiekie waters"
+ },
+ {
+   "Place name": "Waikino",
+   "Components": "wai: water; kino: unpleasant, stinking",
+   "Meaning": "Harmful waters"
+ },
+ {
+   "Place name": "Waikirikiri",
+   "Components": "wai: stream; kirikiri: gravel",
+   "Meaning": "Gravelly stream"
+ },
+ {
+   "Place name": "Waikite",
+   "Components": "wai: water; kite: to see or gaze upon",
+   "Meaning": "Discovered water"
+ },
+ {
+   "Place name": "Waikiwi",
+   "Components": "wai: stream; kiwi: a flightless nocturnal bird",
+   "Meaning": "Kiwi waters"
+ },
+ {
+   "Place name": "Waikōau",
+   "Components": "wai: water; kōau: shag",
+   "Meaning": "Waters of the shag"
+ },
+ {
+   "Place name": "Waikohu",
+   "Components": "wai: water; kohu: mist",
+   "Meaning": "Misty waters"
+ },
+ {
+   "Place name": "Waikōkopu",
+   "Components": "wai: water; kōkopu: cockabully fish",
+   "Meaning": "Waters of the cockabully"
+ },
+ {
+   "Place name": "Waikōkōwai",
+   "Components": "wai: water; kōkōwai: red ochre",
+   "Meaning": "Waters of the red ochre"
+ },
+ {
+   "Place name": "Waikorea",
+   "Components": "wai: water; korea: a small canoe",
+   "Meaning": "Waters of the small canoe"
+ },
+ {
+   "Place name": "Waikouaiti",
+   "Components": "wai: stream; koua (the poetical form of kua): to become; iti: little",
+   "Meaning": "Stream which has become small"
+ },
+ {
+   "Place name": "Waikoukou",
+   "Components": "wai: water; koukou: morepork or native owl",
+   "Meaning": "Water of the morepork"
+ },
+ {
+   "Place name": "Waikōwhai",
+   "Components": "wai: stream; kowhai: native tree",
+   "Meaning": "Kōwhai tree waters"
+ },
+ {
+   "Place name": "Waikōwhitiwhiti",
+   "Components": "wai: water; kōwhitiwhiti: dancing (of water)",
+   "Meaning": "Dancing waters"
+ },
+ {
+   "Place name": "Waikuku",
+   "Components": "wai: water; kuku: freshwater mussel",
+   "Meaning": "Freshwater mussel waters"
+ },
+ {
+   "Place name": "Waikumete",
+   "Components": "wai: water; kumete: wooden bowl often used to snare wood pigeons",
+   "Meaning": "Waters of the kumete bowl"
+ },
+ {
+   "Place name": "Waikuta",
+   "Components": "wai: water; kuta: rushes",
+   "Meaning": "Waters of the kuta rushes"
+ },
+ {
+   "Place name": "Waimā",
+   "Components": "wai: river; mā: white or clear",
+   "Meaning": "Clear water"
+ },
+ {
+   "Place name": "Wai-māeroero",
+   "Components": "wai: water; māeroero: ogres of the South Island forests",
+   "Meaning": "Waters of the ogres of the forests"
+ },
+ {
+   "Place name": "Waimāhaka",
+   "Components": "wai: waters; māhaka (māhanga): twin",
+   "Meaning": "Twin waters"
+ },
+ {
+   "Place name": "Waimahora",
+   "Components": "wai: water; mahora: spread out",
+   "Meaning": "Spread out waters"
+ },
+ {
+   "Place name": "Waimahuru",
+   "Components": "wai; stream; mahuru: placid",
+   "Meaning": "Placid waters"
+ },
+ {
+   "Place name": "Waimakariri",
+   "Components": "wai: river; makariri: cold",
+   "Meaning": "Cold river"
+ },
+ {
+   "Place name": "Waimamaku",
+   "Components": "wai: stream; mamaku: tree-fern",
+   "Meaning": "Tree-fern stream"
+ },
+ {
+   "Place name": "Waimana",
+   "Components": "wai: stream; mana: esteem or influence",
+   "Meaning": "Stream of influence"
+ },
+ {
+   "Place name": "Waimangaroa",
+   "Components": "wai: river; manga: tributary; roa: long",
+   "Meaning": "River with a long tributary"
+ },
+ {
+   "Place name": "Waimangu",
+   "Components": "wai: water; mangu: black",
+   "Meaning": "Black water"
+ },
+ {
+   "Place name": "Waimārama",
+   "Components": "wai: water; mārama: clear",
+   "Meaning": "Clear water"
+ },
+ {
+   "Place name": "Waimarie",
+   "Components": "wai: water; marie: quiet",
+   "Meaning": "Quiet water"
+ },
+ {
+   "Place name": "Waimarino",
+   "Components": "wai: water or stream; marino: calm or still",
+   "Meaning": "Calm stream"
+ },
+ {
+   "Place name": "Waimaru",
+   "Components": "wai; water; maru: shade or sheltered",
+   "Meaning": "Sheltered water"
+ },
+ {
+   "Place name": "Waimātaitai",
+   "Components": "wai; water; mātaitai: salty or brackish water",
+   "Meaning": "Salty water"
+ },
+ {
+   "Place name": "Waimate",
+   "Components": "wai: water; mate: dead, sick or stagnant",
+   "Meaning": "Stagnant water"
+ },
+ {
+   "Place name": "Waimatua",
+   "Components": "wai: water; matua: large or important",
+   "Meaning": "Important water"
+ },
+ {
+   "Place name": "Waimatuku",
+   "Components": "wai: water; matuku: bittern",
+   "Meaning": "Bittern water"
+ },
+ {
+   "Place name": "Waimauku",
+   "Components": "wai: stream; mauku: small ferns",
+   "Meaning": "Fern water"
+ },
+ {
+   "Place name": "Waimaunga",
+   "Components": "wai: stream; maunga: mountain",
+   "Meaning": "Mountain stream"
+ },
+ {
+   "Place name": "Waimimi",
+   "Components": "wai: stream; mimi: urine",
+   "Meaning": "Urine stream"
+ },
+ {
+   "Place name": "Waimiro",
+   "Components": "wai: stream; miro: a native tree",
+   "Meaning": "Miro stream"
+ },
+ {
+   "Place name": "Waimotu",
+   "Components": "wai: water or river; motu: island",
+   "Meaning": "Island stream"
+ },
+ {
+   "Place name": "Waimumu",
+   "Components": "wai: stream; mumu: boisterous",
+   "Meaning": "Boisterous stream"
+ },
+ {
+   "Place name": "Waingake",
+   "Components": "wai: water; ngake: capacious, or the middle section of a fishing net",
+   "Meaning": "Waters to fill a large net"
+ },
+ {
+   "Place name": "Waingaro",
+   "Components": "wai: water or stream; ngaro: lost or hidden",
+   "Meaning": "Lost stream"
+ },
+ {
+   "Place name": "Waingongoro",
+   "Components": "wai: river; ngongoro: to snore or gurgle",
+   "Meaning": "Gurgling water"
+ },
+ {
+   "Place name": "Wainoni",
+   "Components": "wai: stream; noni: bend or turn",
+   "Meaning": "Bendy stream"
+ },
+ {
+   "Place name": "Wainui",
+   "Components": "wai: water; nui: large",
+   "Meaning": "Large waters"
+ },
+ {
+   "Place name": "Wainuiomata",
+   "Components": "wai: stream; nui: big; o: of; Mata: a personal name",
+   "Meaning": "Big stream of Mata"
+ },
+ {
+   "Place name": "Wainuioru",
+   "Components": "wai: water or stream; nui: large; o of; Ru: personal name",
+   "Meaning": "Large waters of Ru"
+ },
+ {
+   "Place name": "Waiohau",
+   "Components": "wai: water; o: of; Hau: personal name",
+   "Meaning": "Waters of Hau"
+ },
+ {
+   "Place name": "Waiohine",
+   "Components": "wai: river; o: of; Hine",
+   "Meaning": "River of Hine"
+ },
+ {
+   "Place name": "Waiomatatini",
+   "Components": "wai: water or stream; o: of; Matatini",
+   "Meaning": "Stream of Matatini"
+ },
+ {
+   "Place name": "Waiomio",
+   "Components": "wai: water or stream; o: of; Mio",
+   "Meaning": "Stream of Mio"
+ },
+ {
+   "Place name": "Waiomu",
+   "Components": "wai: water or stream; o: of; Mu",
+   "Meaning": "Stream of Mu"
+ },
+ {
+   "Place name": "Waione",
+   "Components": "wai: water; one: beach or sand",
+   "Meaning": "Stream on the beach"
+ },
+ {
+   "Place name": "Waiongana",
+   "Components": "wai: water or stream; o: of; Ngana",
+   "Meaning": "Stream of Ngata"
+ },
+ {
+   "Place name": "Wai-ora-a-Tāne",
+   "Components": "wai: water; ora: life; a: of; Tāne",
+   "Meaning": "The life-giving water of Tāne"
+ },
+ {
+   "Place name": "Waiorongomai",
+   "Components": "wai: water or stream; o: of; Rongomai",
+   "Meaning": "Stream of Rongomai"
+ },
+ {
+   "Place name": "Waiotahi",
+   "Components": "wai: water or stream; o: of; Tahi",
+   "Meaning": "Stream of Tahi"
+ },
+ {
+   "Place name": "Wai-o-taiki",
+   "Components": "te: the; wai: stream; o: of; Taiki",
+   "Meaning": "Stream of Taiki"
+ },
+ {
+   "Place name": "Waiotapu",
+   "Components": "wai: water; o: of; tapu: sacred or reserved",
+   "Meaning": "Sacred waters"
+ },
+ {
+   "Place name": "Waiotemarama",
+   "Components": "wai: water; o: of; Te Marama",
+   "Meaning": "Waters of Te Marama"
+ },
+ {
+   "Place name": "Waiotira",
+   "Components": "wai: water or pool; a: of; tira: to set up sticks for divination",
+   "Meaning": "Pool of divination"
+ },
+ {
+   "Place name": "Waiotū",
+   "Components": "wai: water; o: of; Tū: a personal name",
+   "Meaning": "Waters of Tū"
+ },
+ {
+   "Place name": "Waiouru",
+   "Components": "wai: river; o:of; uru: west",
+   "Meaning": "River of the west"
+ },
+ {
+   "Place name": "Waipā",
+   "Components": "wai: river; pā: fortified village or villages",
+   "Meaning": "River of fortified villages"
+ },
+ {
+   "Place name": "Waipahi",
+   "Components": "wai: water; Pahi",
+   "Meaning": "Stream of Pahi"
+ },
+ {
+   "Place name": "Waipāhīhī",
+   "Components": "wai: water; pāhīhī: welling up or flowing in driblets",
+   "Meaning": "Water flowing in driblets"
+ },
+ {
+   "Place name": "Waipakaru",
+   "Components": "wai: water; pakaru: broken",
+   "Meaning": "Stream broken through"
+ },
+ {
+   "Place name": "Waipango",
+   "Components": "wai: water; pango: black",
+   "Meaning": "Black water"
+ },
+ {
+   "Place name": "Waipapa",
+   "Components": "wai: stream; papa: flat",
+   "Meaning": "Stream on flats"
+ },
+ {
+   "Place name": "Waipapakauri",
+   "Components": "wai: water; papa: flat; kauri: native tree",
+   "Meaning": "Swampy ground where the kauri grow"
+ },
+ {
+   "Place name": "Waipaparoa",
+   "Components": "wai: water; papa: flat; roa: long",
+   "Meaning": "Stream on long flats"
+ },
+ {
+   "Place name": "Waipara",
+   "Components": "wai: water; para: mud, silt or sediment",
+   "Meaning": "Silty water"
+ },
+ {
+   "Place name": "Waipareira",
+   "Components": "wai: water; Pareira",
+   "Meaning": "Stream of Pareira"
+ },
+ {
+   "Place name": "Waipari",
+   "Components": "wai: stream; pari: cliff",
+   "Meaning": "Clifftop stream"
+ },
+ {
+   "Place name": "Waipati",
+   "Components": "wai: water; pati: shallow or splashing",
+   "Meaning": "Shallow waters"
+ },
+ {
+   "Place name": "Waipātiki",
+   "Components": "wai: water; pātiki: flounder",
+   "Meaning": "Flounder waters"
+ },
+ {
+   "Place name": "Waipatu",
+   "Components": "wai: water; patu: struck",
+   "Meaning": "Strike water"
+ },
+ {
+   "Place name": "Waipeto",
+   "Components": "wai: stream; peto: to be consumed",
+   "Meaning": "Consumed by the stream"
+ },
+ {
+   "Place name": "Waipīata",
+   "Components": "wai: water; pīata: glistening or clear",
+   "Meaning": "Clear water"
+ },
+ {
+   "Place name": "Waipipi",
+   "Components": "wai: water; pipi: cockle",
+   "Meaning": "Pipi waters"
+ },
+ {
+   "Place name": "Waipiro",
+   "Components": "wai: water; piro: evil-smelling",
+   "Meaning": "Evil-smelling water"
+ },
+ {
+   "Place name": "Waipōua",
+   "Components": "wai: water; pō: night; ua: rain",
+   "Meaning": "Water from rain in the night"
+ },
+ {
+   "Place name": "Waipounamu",
+   "Components": "wai: river; pounamu: greenstone",
+   "Meaning": "Greenstone waters"
+ },
+ {
+   "Place name": "Waipōuri",
+   "Components": "wai: water or stream; pōuri: dark or sad.",
+   "Meaning": "Dark waters"
+ },
+ {
+   "Place name": "Waipū",
+   "Components": "wai: water; pū: reddish in colour",
+   "Meaning": "Reddish water"
+ },
+ {
+   "Place name": "Waipuhinui",
+   "Components": "wai: water; puhi: plume at the bow of a war canoe; nui: large",
+   "Meaning": "Water of the large canoe bow plume"
+ },
+ {
+   "Place name": "Waipuku",
+   "Components": "wai: water; puku: to swell",
+   "Meaning": "Swelling water"
+ },
+ {
+   "Place name": "Waipukurau",
+   "Components": "wai: stream; pukurau: a large white fungus",
+   "Meaning": "Stream of the pukurau fungus"
+ },
+ {
+   "Place name": "Wairākei",
+   "Components": "wai: water; rākei: adorning",
+   "Meaning": "A place where pools of water were used as mirrors"
+ },
+ {
+   "Place name": "Wairangi",
+   "Components": "wai: water; rangi: sky",
+   "Meaning": "Water skies"
+ },
+ {
+   "Place name": "Wairarapa",
+   "Components": "wai: water; rarapa: glistening",
+   "Meaning": "Glistening water"
+ },
+ {
+   "Place name": "Waireka",
+   "Components": "wai: water; reka: sweet",
+   "Meaning": "Sweet water"
+ },
+ {
+   "Place name": "Wairepo",
+   "Components": "wai: water; repo; swamp",
+   "Meaning": "Swampy water"
+ },
+ {
+   "Place name": "Wairere",
+   "Components": "wai: water or stream; rere: to flow",
+   "Meaning": "Waterfall"
+ },
+ {
+   "Place name": "Wairio",
+   "Components": "wai: water or stream; rio: dried up",
+   "Meaning": "Dried-up stream"
+ },
+ {
+   "Place name": "Wairoa",
+   "Components": "wai: river or stream; roa: long",
+   "Meaning": "Long stream"
+ },
+ {
+   "Place name": "Wairongoā",
+   "Components": "wai: springs; rongoā: medicine",
+   "Meaning": "Medicinal stream"
+ },
+ {
+   "Place name": "Wairua",
+   "Components": "wai: stream or river; rua: two",
+   "Meaning": "Twin waters"
+ },
+ {
+   "Place name": "Wairuna",
+   "Components": "wai: stream; runa: dock",
+   "Meaning": "Dock waters"
+ },
+ {
+   "Place name": "Wairunga",
+   "Components": "wai: water; runga: above",
+   "Meaning": "Stream that flows from the mountains"
+ },
+ {
+   "Place name": "Waitaanga",
+   "Components": "wai: stream; a of; Anga",
+   "Meaning": "Stream of Anga"
+ },
+ {
+   "Place name": "Waitaha",
+   "Components": "wai: river or stream; taha: to pass on one side",
+   "Meaning": "Backwater"
+ },
+ {
+   "Place name": "Waitahanui",
+   "Components": "wai: stream; tahanui: a variety of cabbage tree with broad leaves",
+   "Meaning": "Stream of cabbage trees"
+ },
+ {
+   "Place name": "Waitahora",
+   "Components": "wai: water; tahora: spread out or open space",
+   "Meaning": "Wide-open waters"
+ },
+ {
+   "Place name": "Waitahu",
+   "Components": "wai: stream; tahu: continuous or running in a straight line",
+   "Meaning": "Straight-running stream"
+ },
+ {
+   "Place name": "Waitahuna",
+   "Components": "wai: stream; Tāhuna: a personal name",
+   "Meaning": "Stream of Tāhuna"
+ },
+ {
+   "Place name": "Waitai",
+   "Components": "wai: water; tai: salt or brackish",
+   "Meaning": "Salty water"
+ },
+ {
+   "Place name": "Waitakaro",
+   "Components": "wai: stream; takaro: to play or wrestle",
+   "Meaning": "Wrestling waters"
+ },
+ {
+   "Place name": "Waitakaruru",
+   "Components": "wai: water; takaruru: stagnant",
+   "Meaning": "Stagnant water"
+ },
+ {
+   "Place name": "Waitākere",
+   "Components": "wai: water or stream; tākere: deep or cascading",
+   "Meaning": "Cascading stream"
+ },
+ {
+   "Place name": "Waitaki",
+   "Components": "wai: river; taki (tangi): noisy or weeping",
+   "Meaning": "Weeping waters"
+ },
+ {
+   "Place name": "Waitāne",
+   "Components": "wai: river; tāne: man or men",
+   "Meaning": "River of men"
+ },
+ {
+   "Place name": "Waitangi",
+   "Components": "wai: waters; tangi: noisy or weeping",
+   "Meaning": "Weeping waters"
+ },
+ {
+   "Place name": "Waitangiruru",
+   "Components": "wai: water or stream; tangi: to sound; ruru: morepork",
+   "Meaning": "Stream that sounds like a morepork"
+ },
+ {
+   "Place name": "Waitanguru",
+   "Components": "wai: water; tanguru: rushing rapidly",
+   "Meaning": "Rapidly rushing water"
+ },
+ {
+   "Place name": "Waitao",
+   "Components": "wai: water; tao: spear",
+   "Meaning": "Spear waters"
+ },
+ {
+   "Place name": "Waitapu",
+   "Components": "wai: water: tapu: sacred or forbidden",
+   "Meaning": "Sacred waters"
+ },
+ {
+   "Place name": "Waitaramea",
+   "Components": "wai: stream; taramea: speargrass",
+   "Meaning": "Speargrass stream"
+ },
+ {
+   "Place name": "Waitararoa",
+   "Components": "wai:water; tara: sun’s ray or shafts of light; roa: long",
+   "Meaning": "First rays of the sun appearing on the water"
+ },
+ {
+   "Place name": "Waitārere",
+   "Components": "wai: stream; tārere: to flow copiously",
+   "Meaning": "Copiously flowing waters"
+ },
+ {
+   "Place name": "Waitaria",
+   "Components": "wai: water; taria: to wait for",
+   "Meaning": "Waters of waiting"
+ },
+ {
+   "Place name": "Waitaruke",
+   "Components": "wai: stream; taruke: hurrying",
+   "Meaning": "Hurrying stream"
+ },
+ {
+   "Place name": "Waitata",
+   "Components": "wai: water; tata: to dash or beat down",
+   "Meaning": "Dashing stream"
+ },
+ {
+   "Place name": "Waitawa",
+   "Components": "wai: stream; tawa: tree",
+   "Meaning": "Tawa tree stream"
+ },
+ {
+   "Place name": "Waitāwheta",
+   "Components": "wai: water; tāwheta: to flounder",
+   "Meaning": "Restless stream"
+ },
+ {
+   "Place name": "Waitekauri",
+   "Components": "wai: stream; te: the; kauri: native tree",
+   "Meaning": "Stream of the kauri tree"
+ },
+ {
+   "Place name": "Waitepeka",
+   "Components": "wai: stream; te: the; peka: branch",
+   "Meaning": "Tributary stream"
+ },
+ {
+   "Place name": "Waiterimu",
+   "Components": "wai: stream; te: the; rimu: native tree",
+   "Meaning": "Stream of the rimu tree"
+ },
+ {
+   "Place name": "Waiteti",
+   "Components": "wai: stream; te: the; tī: cabbage tree",
+   "Meaning": "Stream of the cabbage tree"
+ },
+ {
+   "Place name": "Waitetuna",
+   "Components": "wai: stream; te: the; tuna: eel",
+   "Meaning": "Stream of the eel"
+ },
+ {
+   "Place name": "Waitiri",
+   "Components": "wai: water or stream; tiri: to toss about or disturb",
+   "Meaning": "Disturbed stream"
+ },
+ {
+   "Place name": "Waitoa",
+   "Components": "wai: water; toa: rough or stormy",
+   "Meaning": "Rough waters"
+ },
+ {
+   "Place name": "Waitoetoe",
+   "Components": "wai: water or stream; toetoe: native grass",
+   "Meaning": "Toetoe grass stream"
+ },
+ {
+   "Place name": "Waitohi",
+   "Components": "wai: water; tohi: baptismal rite",
+   "Meaning": "Stream for baptismal rite"
+ },
+ {
+   "Place name": "Waitohu",
+   "Components": "wai: water; tohu: to point out",
+   "Meaning": "Water that points out the way"
+ },
+ {
+   "Place name": "Waitoki",
+   "Components": "wai: water; toki: adze",
+   "Meaning": "Adze waters"
+ },
+ {
+   "Place name": "Waitomo",
+   "Components": "wai: water; tomo: shaft",
+   "Meaning": "Shafts from water"
+ },
+ {
+   "Place name": "Waitoriki",
+   "Components": "wai: water; tōriki: little",
+   "Meaning": "Small stream"
+ },
+ {
+   "Place name": "Waitōtara",
+   "Components": "wai: river; tōtara: native tree",
+   "Meaning": "Tōtara tree river"
+ },
+ {
+   "Place name": "Waituhi",
+   "Components": "wai: water; tuhi: to glow",
+   "Meaning": "Glowing waters"
+ },
+ {
+   "Place name": "Waitūī",
+   "Components": "wai: water; tūī: bird",
+   "Meaning": "Tūī waters"
+ },
+ {
+   "Place name": "Waituna",
+   "Components": "wai: stream; tuna: eel",
+   "Meaning": "Eel stream"
+ },
+ {
+   "Place name": "Waiuku",
+   "Components": "wai: stream; uku: white clay",
+   "Meaning": "Stream with banks of white clay"
+ },
+ {
+   "Place name": "Waiuta",
+   "Components": "wai: river; uta: inland, or to load a burden",
+   "Meaning": "Inland river"
+ },
+ {
+   "Place name": "Waiwawa",
+   "Components": "wai: stream; wawa: roaring",
+   "Meaning": "Roaring stream"
+ },
+ {
+   "Place name": "Waiwera",
+   "Components": "wai: water; wera: hot",
+   "Meaning": "Hot water"
+ },
+ {
+   "Place name": "Wai-whakaata",
+   "Components": "wai: water; whakaata: to reflect",
+   "Meaning": "Reflecting waters"
+ },
+ {
+   "Place name": "Waiwhero",
+   "Components": "wai: water; whero: red",
+   "Meaning": "Red waters"
+ },
+ {
+   "Place name": "Waiwhetū",
+   "Components": "wai: stream; whetū: star",
+   "Meaning": "Star-reflecting stream"
+ },
+ {
+   "Place name": "Waiwhio",
+   "Components": "wai: stream; whio: blue or whistling duck",
+   "Meaning": "Stream of the blue duck"
+ },
+ {
+   "Place name": "Waiwhiu",
+   "Components": "wai: stream; whiu: sudden bend",
+   "Meaning": "Sudden bend in the stream"
+ },
+ {
+   "Place name": "Wakanui",
+   "Components": "waka: canoe; nui: large or many",
+   "Meaning": "Many waka"
+ },
+ {
+   "Place name": "Waronui",
+   "Components": "waro: chasm or coals; nui: large",
+   "Meaning": "Large coals"
+ },
+ {
+   "Place name": "Waitētē",
+   "Components": "wai: stream; tētē: shovel-nosed duck, now extinct",
+   "Meaning": "Shovel-nosed duck stream"
+ },
+ {
+   "Place name": "Wēiti",
+   "Components": "wē: liquid or water; iti: little",
+   "Meaning": "Little waters"
+ },
+ {
+   "Place name": "Whakaari",
+   "Components": "whakaari: To show or expose to view",
+   "Meaning": "Expose to view"
+ },
+ {
+   "Place name": "Whakaroa",
+   "Components": "Whaka (South Island form of whanga): harbour or bay; roa: long",
+   "Meaning": "Long harbour"
+ },
+ {
+   "Place name": "Whangakoko",
+   "Components": "whanga: harbour; koko: corner, or to take up with a shovel",
+   "Meaning": "Shovelled harbour"
+ },
+ {
+   "Place name": "Whangamarino",
+   "Components": "whanga: stretch of water; marino: peaceful",
+   "Meaning": "Peaceful harbour"
+ },
+ {
+   "Place name": "Whangamata",
+   "Components": "whanga: harbour; mata: obsidian",
+   "Meaning": "Obsidian harbour"
+ },
+ {
+   "Place name": "Whangamoa",
+   "Components": "whanga: valley or sheltered place; moa: probably the raised mounds in a plantation",
+   "Meaning": "Valley with raised mounds in plantation"
+ },
+ {
+   "Place name": "Whangamomona",
+   "Components": "whanga: valley; momona: fat",
+   "Meaning": "Bountiful valley"
+ },
+ {
+   "Place name": "Whanganui",
+   "Components": "whanga: bay; nui: large",
+   "Meaning": "Large harbour"
+ },
+ {
+   "Place name": "Whanganui-o-Hei",
+   "Components": "whanga: bay; nui: large; o: of; Hei",
+   "Meaning": "Large harbour of Hei"
+ },
+ {
+   "Place name": "Whangapara",
+   "Components": "whanga: harbour; para: sediment",
+   "Meaning": "Sedimentary harbour"
+ },
+ {
+   "Place name": "Whangaparāoa",
+   "Components": "whanga: bay; parāoa: whale",
+   "Meaning": "Whale bay"
+ },
+ {
+   "Place name": "Whangapē",
+   "Components": "whanga: to wait; pē: fish roe",
+   "Meaning": "Fish roe harbour"
+ },
+ {
+   "Place name": "Whangapoua",
+   "Components": "whanga: bay or harbour; poua: a mollusc",
+   "Meaning": "Mollusc harbour"
+ },
+ {
+   "Place name": "Whangarā",
+   "Components": "whanga: bay; rā: sun",
+   "Meaning": "Sunny bay"
+ },
+ {
+   "Place name": "Whangarātā",
+   "Components": "whanga: valley; rātā: native tree",
+   "Meaning": "Rātā tree valley"
+ },
+ {
+   "Place name": "Whangārei",
+   "Components": "whanga: waiting; rei: abbreviation of Reipae",
+   "Meaning": "Waiting for Reipae"
+ },
+ {
+   "Place name": "Whangaripo",
+   "Components": "whanga: stretch of water; ripo: deep pool or whirlpool",
+   "Meaning": "Deep stretch of water"
+ },
+ {
+   "Place name": "Whangaroa",
+   "Components": "whanga: harbour; roa: long",
+   "Meaning": "Long harbour"
+ },
+ {
+   "Place name": "Whangaruru",
+   "Components": "whanga: harbour; ruru: morepork",
+   "Meaning": "Morepork harbour"
+ },
+ {
+   "Place name": "Whangateau",
+   "Components": "whanga: harbour; te: the; au: current, smoke or mist",
+   "Meaning": "Harbour of smoke"
+ },
+ {
+   "Place name": "Whangatoetoe",
+   "Components": "whanga: bay; toetoe: native grass",
+   "Meaning": "Toetoe grass bay"
+ },
+ {
+   "Place name": "Whānui",
+   "Components": "whānui: wide",
+   "Meaning": "Wide-open waters"
+ },
+ {
+   "Place name": "Whareroa",
+   "Components": "whare: house; roa: long",
+   "Meaning": "Long house"
+ },
+ {
+   "Place name": "Whāro One-roa-a-Tohe",
+   "Components": "whāro: stretched out; one: beach; roa: long; a: of; Tohe, a chief",
+   "Meaning": "The beach on which Tōhē stretched out"
+ },
+ {
+   "Place name": "Whataroa",
+   "Components": "whata: elevated stage: roa: long or tall",
+   "Meaning": "Long, elevated stage"
+ },
+ {
+   "Place name": "Whekenui",
+   "Components": "wheke: octopus; nui: large",
+   "Meaning": "Great octopus"
+ },
+ {
+   "Place name": "Whenuanui",
+   "Components": "whenua: land; nui: large",
+   "Meaning": "Great land"
+ },
+ {
+   "Place name": "Whenuapai",
+   "Components": "whenua: land; pai: good",
+   "Meaning": "Good land"
+ },
+ {
+   "Place name": "Whānui",
+   "Components": "whānui: broad or wide",
+   "Meaning": "Wide"
+ },
+ {
+   "Place name": "Wharanui",
+   "Components": "wharanui: species of flax",
+   "Meaning": "Wharanui flax"
+ },
+ {
+   "Place name": "Whare",
+   "Components": "whare: house",
+   "Meaning": "House"
+ },
+ {
+   "Place name": "Whareakeake",
+   "Components": "whare: house; akeake: poor land, or a species of tree",
+   "Meaning": "House on poor land"
+ },
+ {
+   "Place name": "Whareama",
+   "Components": "whare: house; ama: carved posts supporting the maihi",
+   "Meaning": "House of carved posts"
+ },
+ {
+   "Place name": "Wharehine",
+   "Components": "whare: house; hine: girls or young women",
+   "Meaning": "House of young women"
+ },
+ {
+   "Place name": "Wharehuanui",
+   "Components": "whare: house; huanui: road or path",
+   "Meaning": "House by a path"
+ },
+ {
+   "Place name": "Wharehuia",
+   "Components": "whare: house; huia (the possessive case of hui): assembled",
+   "Meaning": "House of assembly"
+ },
+ {
+   "Place name": "Wharehunga",
+   "Components": "whare: house; hunga: company of people",
+   "Meaning": "Meeting house, or meeting of people in a house"
+ },
+ {
+   "Place name": "Wharekaho",
+   "Components": "whare: house; kaho: fence rail",
+   "Meaning": "Enclosed palisade"
+ },
+ {
+   "Place name": "Wharekākā",
+   "Components": "whare: probably nesting place; kākā: parrots",
+   "Meaning": "Nesting place of parrots"
+ },
+ {
+   "Place name": "Wharekōpae",
+   "Components": "whare: house; kōpae: circular",
+   "Meaning": "House with a side door"
+ },
+ {
+   "Place name": "Wharekōwhiti",
+   "Components": "whare: house; kō: father side; whiti: to cross",
+   "Meaning": "Cross to house on the far side"
+ },
+ {
+   "Place name": "Whareongaonga",
+   "Components": "whare: house; ongaonga: nettle",
+   "Meaning": "Nettle house"
+ },
+ {
+   "Place name": "Whareora",
+   "Components": "whare: house; ora: safe or in good health",
+   "Meaning": "House of good health"
+ },
+ {
+   "Place name": "Wharepāina",
+   "Components": "whare: house; pāina: to warm oneself",
+   "Meaning": "House to warm oneself"
+ },
+ {
+   "Place name": "Wharepapa",
+   "Components": "whare: house; papa: flat",
+   "Meaning": "House flats"
+ },
+ {
+   "Place name": "Wharepoa",
+   "Components": "whare: house: poa: smouldering or smoking",
+   "Meaning": "Smouldering house"
+ },
+ {
+   "Place name": "Whareponga",
+   "Components": "whare: house; ponga: tree-fern",
+   "Meaning": "Tree-fern house"
+ },
+ {
+   "Place name": "Wharerātā",
+   "Components": "whare: house; rātā: native tree",
+   "Meaning": "House among the rātā trees"
+ },
+ {
+   "Place name": "Whatamangō",
+   "Components": "whata: elevated food store: mangō (the same word as makō): shark",
+   "Meaning": "A stage for storing dried shark flesh"
+ },
+ {
+   "Place name": "Whatatutu",
+   "Components": "whata: elevated food platform; tutu: native tree or bush",
+   "Meaning": "Storage platform among the tutu bushes"
+ },
+ {
+   "Place name": "Whatawhata",
+   "Components": "whata: elevated food platform",
+   "Meaning": "Elevated food platforms"
+ },
+ {
+   "Place name": "Whatitiri",
+   "Components": "whatitiri: thunder",
+   "Meaning": "Thunder"
+ },
+ {
+   "Place name": "Whatiwhatihoe",
+   "Components": "whatiwhati: to break in pieces; hoe: paddle",
+   "Meaning": "Paddle broken into pieces"
+ },
+ {
+   "Place name": "Whau",
+   "Components": "whau: a native tree",
+   "Meaning": "Whau tree"
+ },
+ {
+   "Place name": "Whāwhārua",
+   "Components": "whāwhā: to feel about; rua: pit",
+   "Meaning": "Grope about in kūmara pit"
+ },
+ {
+   "Place name": "Whenuahōu",
+   "Components": "whenua: land; hōu: new",
+   "Meaning": "New land"
+ },
+ {
+   "Place name": "Whenuakite",
+   "Components": "whenua: land; kite: discover",
+   "Meaning": "Discovered land"
+ },
+ {
+   "Place name": "Whenuakura",
+   "Components": "whenua: land; kura: red",
+   "Meaning": "Red land"
+ },
+ {
+   "Place name": "Whetūkura",
+   "Components": "whetū: star; kura: red",
+   "Meaning": "Red star"
+ },
+ {
+   "Place name": "Whitianga",
+   "Components": "whitianga: the crossing",
+   "Meaning": "The crossing (of a river)"
+ },
+ {
+   "Place name": "Whitikau",
+   "Components": "whiti: to cross; kau: to wade",
+   "Meaning": "Wade across"
+ }
+]
